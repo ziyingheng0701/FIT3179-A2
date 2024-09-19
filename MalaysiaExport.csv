@@ -1,4 +1,4 @@
-refPeriodId,refYear,reporterCode,reporterISO,reporterDesc,partnerCode,CountryISO,Country,partner2Desc,tradeValue,primaryValue
+refPeriodId,refYear,reporterCode,reporterISO,Origin,partnerCode,CountryISO,Country,partner2Desc,tradeValue,primaryValue
 20230101,2023,458,MYS,Malaysia,4,AFG,Afghanistan,World,336699781.4,336699781.4
 20230101,2023,458,MYS,Malaysia,8,ALB,Albania,World,17355652.44,17355652.44
 20230101,2023,458,MYS,Malaysia,12,DZA,Algeria,World,94677353.24,94677353.24
