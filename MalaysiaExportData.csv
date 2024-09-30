@@ -1,4 +1,4 @@
-refPeriodId,Year,reporterCode,reporterISO,reporterDesc,flowDesc,partnerCode,partnerISO,partnerDesc,tradeValue
+refPeriodId,Year,reporterCode,reporterISO,reporterDesc,flowDesc,partnerCode,partnerISO,Country,tradeValue
 20200101,2020,458,MYS,Malaysia,Export,764,THA,Thailand,10786175541
 20200101,2020,458,MYS,Malaysia,Export,0,W00,World,2.3405E+11
 20200101,2020,458,MYS,Malaysia,Export,90,SLB,Solomon Isds,19853006.8
@@ -18,7 +18,7 @@ refPeriodId,Year,reporterCode,reporterISO,reporterDesc,flowDesc,partnerCode,part
 20200101,2020,458,MYS,Malaysia,Export,12,DZA,Algeria,87475345.34
 20200101,2020,458,MYS,Malaysia,Export,178,COG,Congo,42281563.96
 20200101,2020,458,MYS,Malaysia,Export,524,NPL,Nepal,37133558.77
-20200101,2020,458,MYS,Malaysia,Export,531,CUW,Curaçao,1642796.075
+20200101,2020,458,MYS,Malaysia,Export,531,CUW,CuraÃ§ao,1642796.075
 20200101,2020,458,MYS,Malaysia,Export,466,MLI,Mali,14442507.57
 20200101,2020,458,MYS,Malaysia,Export,418,LAO,Lao People's Dem. Rep.,13379012.64
 20200101,2020,458,MYS,Malaysia,Export,752,SWE,Sweden,353585634.2
@@ -29,7 +29,7 @@ refPeriodId,Year,reporterCode,reporterISO,reporterDesc,flowDesc,partnerCode,part
 20200101,2020,458,MYS,Malaysia,Export,842,USA,USA,25984205303
 20200101,2020,458,MYS,Malaysia,Export,800,UGA,Uganda,7325962.57
 20200101,2020,458,MYS,Malaysia,Export,52,BRB,Barbados,2393680.669
-20200101,2020,458,MYS,Malaysia,Export,792,TUR,Türkiye,1840624475
+20200101,2020,458,MYS,Malaysia,Export,792,TUR,TÃ¼rkiye,1840624475
 20200101,2020,458,MYS,Malaysia,Export,804,UKR,Ukraine,127234742.8
 20200101,2020,458,MYS,Malaysia,Export,780,TTO,Trinidad and Tobago,20423916.09
 20200101,2020,458,MYS,Malaysia,Export,208,DNK,Denmark,209926137.5
@@ -69,7 +69,7 @@ refPeriodId,Year,reporterCode,reporterISO,reporterDesc,flowDesc,partnerCode,part
 20200101,2020,458,MYS,Malaysia,Export,854,BFA,Burkina Faso,5461814.063
 20200101,2020,458,MYS,Malaysia,Export,834,TZA,United Rep. of Tanzania,156755688.8
 20200101,2020,458,MYS,Malaysia,Export,430,LBR,Liberia,15976738.66
-20200101,2020,458,MYS,Malaysia,Export,384,CIV,Côte d'Ivoire,114398503.9
+20200101,2020,458,MYS,Malaysia,Export,384,CIV,CÃ´te d'Ivoire,114398503.9
 20200101,2020,458,MYS,Malaysia,Export,292,GIB,Gibraltar,25355805.22
 20200101,2020,458,MYS,Malaysia,Export,96,BRN,Brunei Darussalam,660444995.2
 20200101,2020,458,MYS,Malaysia,Export,662,LCA,Saint Lucia,339369.823
@@ -259,7 +259,7 @@ refPeriodId,Year,reporterCode,reporterISO,reporterDesc,flowDesc,partnerCode,part
 20210101,2021,458,MYS,Malaysia,Export,442,LUX,Luxembourg,58493242.85
 20210101,2021,458,MYS,Malaysia,Export,562,NER,Niger,5826629.487
 20210101,2021,458,MYS,Malaysia,Export,191,HRV,Croatia,29151773.91
-20210101,2021,458,MYS,Malaysia,Export,792,TUR,Türkiye,3409109875
+20210101,2021,458,MYS,Malaysia,Export,792,TUR,TÃ¼rkiye,3409109875
 20210101,2021,458,MYS,Malaysia,Export,574,NFK,Norfolk Isds,2244513.884
 20210101,2021,458,MYS,Malaysia,Export,807,MKD,North Macedonia,4522003.917
 20210101,2021,458,MYS,Malaysia,Export,899,_X ,"Areas, nes",41072658.12
@@ -401,7 +401,7 @@ refPeriodId,Year,reporterCode,reporterISO,reporterDesc,flowDesc,partnerCode,part
 20210101,2021,458,MYS,Malaysia,Export,92,VGB,Br. Virgin Isds,45368.452
 20210101,2021,458,MYS,Malaysia,Export,400,JOR,Jordan,193106657.4
 20210101,2021,458,MYS,Malaysia,Export,804,UKR,Ukraine,177126164.9
-20210101,2021,458,MYS,Malaysia,Export,384,CIV,Côte d'Ivoire,120968165.6
+20210101,2021,458,MYS,Malaysia,Export,384,CIV,CÃ´te d'Ivoire,120968165.6
 20210101,2021,458,MYS,Malaysia,Export,332,HTI,Haiti,8462017.78
 20210101,2021,458,MYS,Malaysia,Export,616,POL,Poland,742580607.8
 20210101,2021,458,MYS,Malaysia,Export,570,NIU,Niue,4769.148
@@ -436,7 +436,7 @@ refPeriodId,Year,reporterCode,reporterISO,reporterDesc,flowDesc,partnerCode,part
 20210101,2021,458,MYS,Malaysia,Export,795,TKM,Turkmenistan,4007822.17
 20210101,2021,458,MYS,Malaysia,Export,694,SLE,Sierra Leone,15885995.72
 20210101,2021,458,MYS,Malaysia,Export,520,NRU,Nauru,606511.586
-20210101,2021,458,MYS,Malaysia,Export,531,CUW,Curaçao,408327.656
+20210101,2021,458,MYS,Malaysia,Export,531,CUW,CuraÃ§ao,408327.656
 20210101,2021,458,MYS,Malaysia,Export,56,BEL,Belgium,1545963120
 20220101,2022,458,MYS,Malaysia,Export,570,NIU,Niue,6766.299
 20220101,2022,458,MYS,Malaysia,Export,581,UMI,United States Minor Outlying Islands,1584.385
@@ -486,7 +486,7 @@ refPeriodId,Year,reporterCode,reporterISO,reporterDesc,flowDesc,partnerCode,part
 20220101,2022,458,MYS,Malaysia,Export,591,PAN,Panama,87348911.54
 20220101,2022,458,MYS,Malaysia,Export,516,NAM,Namibia,11577941.16
 20220101,2022,458,MYS,Malaysia,Export,528,NLD,Netherlands,9531745337
-20220101,2022,458,MYS,Malaysia,Export,531,CUW,Curaçao,836194.294
+20220101,2022,458,MYS,Malaysia,Export,531,CUW,CuraÃ§ao,836194.294
 20220101,2022,458,MYS,Malaysia,Export,548,VUT,Vanuatu,49145576.16
 20220101,2022,458,MYS,Malaysia,Export,554,NZL,New Zealand,1560944221
 20220101,2022,458,MYS,Malaysia,Export,574,NFK,Norfolk Isds,1224335.019
@@ -518,7 +518,7 @@ refPeriodId,Year,reporterCode,reporterISO,reporterDesc,flowDesc,partnerCode,part
 20220101,2022,458,MYS,Malaysia,Export,842,USA,USA,38025492595
 20220101,2022,458,MYS,Malaysia,Export,776,TON,Tonga,4215445.081
 20220101,2022,458,MYS,Malaysia,Export,780,TTO,Trinidad and Tobago,35237461.19
-20220101,2022,458,MYS,Malaysia,Export,792,TUR,Türkiye,3951187491
+20220101,2022,458,MYS,Malaysia,Export,792,TUR,TÃ¼rkiye,3951187491
 20220101,2022,458,MYS,Malaysia,Export,795,TKM,Turkmenistan,8255218.139
 20220101,2022,458,MYS,Malaysia,Export,800,UGA,Uganda,7389528.107
 20220101,2022,458,MYS,Malaysia,Export,807,MKD,North Macedonia,5314062.447
@@ -553,7 +553,7 @@ refPeriodId,Year,reporterCode,reporterISO,reporterDesc,flowDesc,partnerCode,part
 20220101,2022,458,MYS,Malaysia,Export,368,IRQ,Iraq,783306847
 20220101,2022,458,MYS,Malaysia,Export,372,IRL,Ireland,216289001.7
 20220101,2022,458,MYS,Malaysia,Export,380,ITA,Italy,1914143714
-20220101,2022,458,MYS,Malaysia,Export,384,CIV,Côte d'Ivoire,139058244.6
+20220101,2022,458,MYS,Malaysia,Export,384,CIV,CÃ´te d'Ivoire,139058244.6
 20220101,2022,458,MYS,Malaysia,Export,388,JAM,Jamaica,21138106.42
 20220101,2022,458,MYS,Malaysia,Export,392,JPN,Japan,22416749635
 20220101,2022,458,MYS,Malaysia,Export,398,KAZ,Kazakhstan,128936368.8
@@ -742,7 +742,7 @@ refPeriodId,Year,reporterCode,reporterISO,reporterDesc,flowDesc,partnerCode,part
 20230101,2023,458,MYS,Malaysia,Export,780,TTO,Trinidad and Tobago,57442703.52
 20230101,2023,458,MYS,Malaysia,Export,784,ARE,United Arab Emirates,3120539497
 20230101,2023,458,MYS,Malaysia,Export,788,TUN,Tunisia,122053608.1
-20230101,2023,458,MYS,Malaysia,Export,792,TUR,Türkiye,3844132644
+20230101,2023,458,MYS,Malaysia,Export,792,TUR,TÃ¼rkiye,3844132644
 20230101,2023,458,MYS,Malaysia,Export,795,TKM,Turkmenistan,9946650.73
 20230101,2023,458,MYS,Malaysia,Export,796,TCA,Turks and Caicos Isds,309862.45
 20230101,2023,458,MYS,Malaysia,Export,798,TUV,Tuvalu,174971.686
@@ -838,7 +838,7 @@ refPeriodId,Year,reporterCode,reporterISO,reporterDesc,flowDesc,partnerCode,part
 20230101,2023,458,MYS,Malaysia,Export,368,IRQ,Iraq,426027404.3
 20230101,2023,458,MYS,Malaysia,Export,372,IRL,Ireland,206828728.9
 20230101,2023,458,MYS,Malaysia,Export,380,ITA,Italy,1376447328
-20230101,2023,458,MYS,Malaysia,Export,384,CIV,Côte d'Ivoire,115612340.5
+20230101,2023,458,MYS,Malaysia,Export,384,CIV,CÃ´te d'Ivoire,115612340.5
 20230101,2023,458,MYS,Malaysia,Export,388,JAM,Jamaica,14643277.53
 20230101,2023,458,MYS,Malaysia,Export,392,JPN,Japan,18791083935
 20230101,2023,458,MYS,Malaysia,Export,398,KAZ,Kazakhstan,102088960.5
@@ -880,7 +880,7 @@ refPeriodId,Year,reporterCode,reporterISO,reporterDesc,flowDesc,partnerCode,part
 20230101,2023,458,MYS,Malaysia,Export,558,NIC,Nicaragua,4065036.418
 20230101,2023,458,MYS,Malaysia,Export,562,NER,Niger,6665220.747
 20230101,2023,458,MYS,Malaysia,Export,566,NGA,Nigeria,519656971.3
-20230101,2023,458,MYS,Malaysia,Export,531,CUW,Curaçao,830143.054
+20230101,2023,458,MYS,Malaysia,Export,531,CUW,CuraÃ§ao,830143.054
 20230101,2023,458,MYS,Malaysia,Export,334,HMD,Heard Island and McDonald Islands,35496.462
 20230101,2023,458,MYS,Malaysia,Export,336,VAT,Holy See (Vatican City State),60136.732
 20230101,2023,458,MYS,Malaysia,Export,360,IDN,Indonesia,11162555980
