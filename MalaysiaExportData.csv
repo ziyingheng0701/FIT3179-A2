@@ -191,7 +191,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2020,Malaysia,Export,Lesotho,182865.531
 2020,Malaysia,Export,Montenegro,1475219.058
 2020,Malaysia,Export,"China, Macao SAR",27198731.08
-2020,Malaysia,Export,Bolivia (Plurinational State of),11019548.12
+2020,Malaysia,Export,Bolivia,11019548.12
 2020,Malaysia,Export,Austria,122373280.3
 2020,Malaysia,Export,North Macedonia,2631750.669
 2020,Malaysia,Export,Peru,154499593.3
@@ -284,7 +284,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2021,Malaysia,Export,Belarus,3885054.257
 2021,Malaysia,Export,Papua New Guinea,341327816.6
 2021,Malaysia,Export,Honduras,25660688.69
-2021,Malaysia,Export,Bolivia (Plurinational State of),20368387.22
+2021,Malaysia,Export,Bolivia,20368387.22
 2021,Malaysia,Export,Azerbaijan,30233233.03
 2021,Malaysia,Export,Bosnia and Herz.,951082.779
 2021,Malaysia,Export,Switzerland,472404859
@@ -532,7 +532,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2022,Malaysia,Export,Barbados,3328702.472
 2022,Malaysia,Export,Belgium,2044445507
 2022,Malaysia,Export,Bermuda,754249.796
-2022,Malaysia,Export,Bolivia (Plurinational State of),21681891.57
+2022,Malaysia,Export,Bolivia,21681891.57
 2022,Malaysia,Export,Bosnia and Herz.,704280.884
 2022,Malaysia,Export,Botswana,4127069.656
 2022,Malaysia,Export,Brazil,1059420704
@@ -784,7 +784,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2023,Malaysia,Export,Belgium,2048333568
 2023,Malaysia,Export,Bermuda,465352.37
 2023,Malaysia,Export,Bhutan,1984908.821
-2023,Malaysia,Export,Bolivia (Plurinational State of),22168897.06
+2023,Malaysia,Export,Bolivia,22168897.06
 2023,Malaysia,Export,Bosnia and Herz.,701560.858
 2023,Malaysia,Export,Botswana,2211065.393
 2023,Malaysia,Export,Brazil,1095884095
