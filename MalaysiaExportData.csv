@@ -1,6 +1,5 @@
 Year,Origin,flowDesc,ExportCountry,tradeValue
 2020,Malaysia,Export,Thailand,10786175541
-2020,Malaysia,Export,World,2.34E+11
 2020,Malaysia,Export,Solomon Isds,19853006.8
 2020,Malaysia,Export,Saint Helena,35173.457
 2020,Malaysia,Export,Indonesia,7039109642
@@ -18,7 +17,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2020,Malaysia,Export,Algeria,87475345.34
 2020,Malaysia,Export,Congo,42281563.96
 2020,Malaysia,Export,Nepal,37133558.77
-2020,Malaysia,Export,Curaçao,1642796.075
+2020,Malaysia,Export,CuraÃ§ao,1642796.075
 2020,Malaysia,Export,Mali,14442507.57
 2020,Malaysia,Export,Lao People's Dem. Rep.,13379012.64
 2020,Malaysia,Export,Sweden,353585634.2
@@ -29,7 +28,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2020,Malaysia,Export,USA,25984205303
 2020,Malaysia,Export,Uganda,7325962.57
 2020,Malaysia,Export,Barbados,2393680.669
-2020,Malaysia,Export,Türkiye,1840624475
+2020,Malaysia,Export,TÃ¼rkiye,1840624475
 2020,Malaysia,Export,Ukraine,127234742.8
 2020,Malaysia,Export,Trinidad and Tobago,20423916.09
 2020,Malaysia,Export,Denmark,209926137.5
@@ -69,7 +68,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2020,Malaysia,Export,Burkina Faso,5461814.063
 2020,Malaysia,Export,United Rep. of Tanzania,156755688.8
 2020,Malaysia,Export,Liberia,15976738.66
-2020,Malaysia,Export,Côte d'Ivoire,114398503.9
+2020,Malaysia,Export,CÃ´te d'Ivoire,114398503.9
 2020,Malaysia,Export,Gibraltar,25355805.22
 2020,Malaysia,Export,Brunei Darussalam,660444995.2
 2020,Malaysia,Export,Saint Lucia,339369.823
@@ -221,7 +220,6 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2021,Malaysia,Export,Thailand,12646128852
 2021,Malaysia,Export,Indonesia,9465142518
 2021,Malaysia,Export,Rep. of Moldova,3010168.998
-2021,Malaysia,Export,World,2.99E+11
 2021,Malaysia,Export,Sao Tome and Principe,953342.332
 2021,Malaysia,Export,Guinea-Bissau,2027135.099
 2021,Malaysia,Export,Turks and Caicos Isds,10800.093
@@ -259,7 +257,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2021,Malaysia,Export,Luxembourg,58493242.85
 2021,Malaysia,Export,Niger,5826629.487
 2021,Malaysia,Export,Croatia,29151773.91
-2021,Malaysia,Export,Türkiye,3409109875
+2021,Malaysia,Export,TÃ¼rkiye,3409109875
 2021,Malaysia,Export,Norfolk Isds,2244513.884
 2021,Malaysia,Export,North Macedonia,4522003.917
 2021,Malaysia,Export,"Areas, nes",41072658.12
@@ -401,7 +399,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2021,Malaysia,Export,Br. Virgin Isds,45368.452
 2021,Malaysia,Export,Jordan,193106657.4
 2021,Malaysia,Export,Ukraine,177126164.9
-2021,Malaysia,Export,Côte d'Ivoire,120968165.6
+2021,Malaysia,Export,CÃ´te d'Ivoire,120968165.6
 2021,Malaysia,Export,Haiti,8462017.78
 2021,Malaysia,Export,Poland,742580607.8
 2021,Malaysia,Export,Niue,4769.148
@@ -436,7 +434,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2021,Malaysia,Export,Turkmenistan,4007822.17
 2021,Malaysia,Export,Sierra Leone,15885995.72
 2021,Malaysia,Export,Nauru,606511.586
-2021,Malaysia,Export,Curaçao,408327.656
+2021,Malaysia,Export,CuraÃ§ao,408327.656
 2021,Malaysia,Export,Belgium,1545963120
 2022,Malaysia,Export,Niue,6766.299
 2022,Malaysia,Export,United States Minor Outlying Islands,1584.385
@@ -486,7 +484,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2022,Malaysia,Export,Panama,87348911.54
 2022,Malaysia,Export,Namibia,11577941.16
 2022,Malaysia,Export,Netherlands,9531745337
-2022,Malaysia,Export,Curaçao,836194.294
+2022,Malaysia,Export,CuraÃ§ao,836194.294
 2022,Malaysia,Export,Vanuatu,49145576.16
 2022,Malaysia,Export,New Zealand,1560944221
 2022,Malaysia,Export,Norfolk Isds,1224335.019
@@ -518,7 +516,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2022,Malaysia,Export,USA,38025492595
 2022,Malaysia,Export,Tonga,4215445.081
 2022,Malaysia,Export,Trinidad and Tobago,35237461.19
-2022,Malaysia,Export,Türkiye,3951187491
+2022,Malaysia,Export,TÃ¼rkiye,3951187491
 2022,Malaysia,Export,Turkmenistan,8255218.139
 2022,Malaysia,Export,Uganda,7389528.107
 2022,Malaysia,Export,North Macedonia,5314062.447
@@ -553,7 +551,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2022,Malaysia,Export,Iraq,783306847
 2022,Malaysia,Export,Ireland,216289001.7
 2022,Malaysia,Export,Italy,1914143714
-2022,Malaysia,Export,Côte d'Ivoire,139058244.6
+2022,Malaysia,Export,CÃ´te d'Ivoire,139058244.6
 2022,Malaysia,Export,Jamaica,21138106.42
 2022,Malaysia,Export,Japan,22416749635
 2022,Malaysia,Export,Kazakhstan,128936368.8
@@ -660,7 +658,6 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2022,Malaysia,Export,Thailand,14943379970
 2022,Malaysia,Export,Bhutan,1958665.597
 2022,Malaysia,Export,Indonesia,12664226165
-2022,Malaysia,Export,World,3.52E+11
 2023,Malaysia,Export,Bonaire,69.727
 2023,Malaysia,Export,Fr. South Antarctic Terr.,1548.692
 2023,Malaysia,Export,United States Minor Outlying Islands,12987.04
@@ -742,7 +739,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2023,Malaysia,Export,Trinidad and Tobago,57442703.52
 2023,Malaysia,Export,United Arab Emirates,3120539497
 2023,Malaysia,Export,Tunisia,122053608.1
-2023,Malaysia,Export,Türkiye,3844132644
+2023,Malaysia,Export,TÃ¼rkiye,3844132644
 2023,Malaysia,Export,Turkmenistan,9946650.73
 2023,Malaysia,Export,Turks and Caicos Isds,309862.45
 2023,Malaysia,Export,Tuvalu,174971.686
@@ -838,7 +835,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2023,Malaysia,Export,Iraq,426027404.3
 2023,Malaysia,Export,Ireland,206828728.9
 2023,Malaysia,Export,Italy,1376447328
-2023,Malaysia,Export,Côte d'Ivoire,115612340.5
+2023,Malaysia,Export,CÃ´te d'Ivoire,115612340.5
 2023,Malaysia,Export,Jamaica,14643277.53
 2023,Malaysia,Export,Japan,18791083935
 2023,Malaysia,Export,Kazakhstan,102088960.5
@@ -880,9 +877,8 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2023,Malaysia,Export,Nicaragua,4065036.418
 2023,Malaysia,Export,Niger,6665220.747
 2023,Malaysia,Export,Nigeria,519656971.3
-2023,Malaysia,Export,Curaçao,830143.054
+2023,Malaysia,Export,CuraÃ§ao,830143.054
 2023,Malaysia,Export,Heard Island and McDonald Islands,35496.462
 2023,Malaysia,Export,Holy See (Vatican City State),60136.732
 2023,Malaysia,Export,Indonesia,11162555980
 2023,Malaysia,Export,Thailand,12873639855
-2023,Malaysia,Export,World,3.13E+11
