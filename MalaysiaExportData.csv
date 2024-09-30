@@ -175,7 +175,6 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2020,Malaysia,Export,Germany,5874581791
 2020,Malaysia,Export,Finland,164096898.9
 2020,Malaysia,Export,Singapore,33816086267
-2020,Malaysia,Export,"Other Asia, nes",8058445094
 2020,Malaysia,Export,Faeroe Isds,122456.33
 2020,Malaysia,Export,Mexico,1999730783
 2020,Malaysia,Export,Tunisia,114661808.7
@@ -318,7 +317,6 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2021,Malaysia,Export,Chile,226655123.2
 2021,Malaysia,Export,Guam,3234306.651
 2021,Malaysia,Export,Grenada,661680.203
-2021,Malaysia,Export,"Other Asia, nes",9784222162
 2021,Malaysia,Export,South Sudan,219295.616
 2021,Malaysia,Export,Ecuador,34632365.25
 2021,Malaysia,Export,Mauritania,48903348.81
@@ -468,7 +466,6 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2022,Malaysia,Export,Madagascar,125206908.9
 2022,Malaysia,Export,Mauritania,77599377.84
 2022,Malaysia,Export,Mauritius,111007379.5
-2022,Malaysia,Export,"Other Asia, nes",11757353044
 2022,Malaysia,Export,Rep. of Moldova,862302.907
 2022,Malaysia,Export,Montenegro,902173.607
 2022,Malaysia,Export,Morocco,113640300.6
@@ -861,7 +858,6 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2023,Malaysia,Export,Mauritania,112211405.2
 2023,Malaysia,Export,Mauritius,103059936.1
 2023,Malaysia,Export,Mexico,4103917218
-2023,Malaysia,Export,"Other Asia, nes",9492811102
 2023,Malaysia,Export,Mongolia,33539612.04
 2023,Malaysia,Export,Rep. of Moldova,725737.595
 2023,Malaysia,Export,Montenegro,1115154.517
