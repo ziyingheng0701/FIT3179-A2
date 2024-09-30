@@ -158,7 +158,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2020,Malaysia,Export,Haiti,17253258.41
 2020,Malaysia,Export,Uzbekistan,50035044.94
 2020,Malaysia,Export,Palau,567089.12
-2020,Malaysia,Export,"China, Hong Kong SAR",16216749059
+2020,Malaysia,Export,Hong Kong,16216749059
 2020,Malaysia,Export,Iraq,119211099.6
 2020,Malaysia,Export,Dominica,412257.013
 2020,Malaysia,Export,Saint Kitts and Nevis,65452.401
@@ -247,7 +247,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2021,Malaysia,Export,Serbia,9902001.235
 2021,Malaysia,Export,USA,34366250028
 2021,Malaysia,Export,Costa Rica,938907797.8
-2021,Malaysia,Export,"China, Hong Kong SAR",18494037029
+2021,Malaysia,Export,Hong Kong,18494037029
 2021,Malaysia,Export,Yemen,195238795.5
 2021,Malaysia,Export,Iran,565660507.8
 2021,Malaysia,Export,Timor-Leste,20741632.2
@@ -650,7 +650,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2022,Malaysia,Export,Guyana,9486649.604
 2022,Malaysia,Export,Haiti,6424559.635
 2022,Malaysia,Export,Honduras,24239362.94
-2022,Malaysia,Export,"China, Hong Kong SAR",21737858534
+2022,Malaysia,Export,Hong Kong,21737858534
 2022,Malaysia,Export,Hungary,566753857.8
 2022,Malaysia,Export,Iceland,142604061.4
 2022,Malaysia,Export,Aruba,149422.99
@@ -698,7 +698,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2023,Malaysia,Export,Guyana,11085322.86
 2023,Malaysia,Export,Haiti,6552688.329
 2023,Malaysia,Export,Honduras,29957984.95
-2023,Malaysia,Export,"China, Hong Kong SAR",19698224011
+2023,Malaysia,Export,Hong Kong,19698224011
 2023,Malaysia,Export,Hungary,522032707.8
 2023,Malaysia,Export,Iceland,22545406.1
 2023,Malaysia,Export,Niue,4773.909
