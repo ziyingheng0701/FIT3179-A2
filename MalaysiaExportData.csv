@@ -57,7 +57,6 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2020,Malaysia,Export,Cambodia,355705363.2
 2020,Malaysia,Export,Central African Rep.,609198.731
 2020,Malaysia,Export,Suriname,8315115.333
-2020,Malaysia,Export,"Areas, nes",28562558.92
 2020,Malaysia,Export,South Africa,613002955
 2020,Malaysia,Export,Switzerland,641561848.6
 2020,Malaysia,Export,Vietnam,7352144153
@@ -258,7 +257,6 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2021,Malaysia,Export,Turkey,3409109875
 2021,Malaysia,Export,Norfolk Isds,2244513.884
 2021,Malaysia,Export,North Macedonia,4522003.917
-2021,Malaysia,Export,"Areas, nes",41072658.12
 2021,Malaysia,Export,Singapore,41847308487
 2021,Malaysia,Export,Namibia,4790999.801
 2021,Malaysia,Export,Cambodia,457104598
@@ -524,7 +522,6 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2022,Malaysia,Export,Samoa,12104560.74
 2022,Malaysia,Export,Yemen,151377892.2
 2022,Malaysia,Export,Zambia,5935808.296
-2022,Malaysia,Export,"Areas, nes",39293385.98
 2022,Malaysia,Export,Armenia,1899583.006
 2022,Malaysia,Export,Barbados,3328702.472
 2022,Malaysia,Export,Belgium,2044445507
@@ -749,7 +746,6 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2023,Malaysia,Export,Wallis and Futuna Isds,228633.865
 2023,Malaysia,Export,Samoa,4979762.423
 2023,Malaysia,Export,Yemen,243607048.5
-2023,Malaysia,Export,"Areas, nes",21893541.96
 2023,Malaysia,Export,Seychelles,12467967.77
 2023,Malaysia,Export,Sierra Leone,15988670.52
 2023,Malaysia,Export,India,9984902056
