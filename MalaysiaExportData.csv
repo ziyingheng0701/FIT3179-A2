@@ -146,7 +146,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2020,Malaysia,Export,China,37878831339
 2020,Malaysia,Export,Bahrain,61183504.04
 2020,Malaysia,Export,Bhutan,1325836.243
-2020,Malaysia,Export,FS Micronesia,720266.646
+2020,Malaysia,Export,Micronesia,720266.646
 2020,Malaysia,Export,Ecuador,25672503.12
 2020,Malaysia,Export,Colombia,101071533.4
 2020,Malaysia,Export,Croatia,17998907.58
@@ -361,7 +361,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2021,Malaysia,Export,Iceland,55786720.64
 2021,Malaysia,Export,Bangladesh,2258665129
 2021,Malaysia,Export,Venezuela,10345483.26
-2021,Malaysia,Export,FS Micronesia,1276175.285
+2021,Malaysia,Export,Micronesia,1276175.285
 2021,Malaysia,Export,Paraguay,7341084.542
 2021,Malaysia,Export,Liberia,15597744.88
 2021,Malaysia,Export,Wallis and Futuna Isds,44174.959
@@ -484,7 +484,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2022,Malaysia,Export,Norfolk Isds,1224335.019
 2022,Malaysia,Export,Norway,183408666.6
 2022,Malaysia,Export,N. Mariana Isds,460334.427
-2022,Malaysia,Export,FS Micronesia,1070040.039
+2022,Malaysia,Export,Micronesia,1070040.039
 2022,Malaysia,Export,Marshall Isds,62921366.68
 2022,Malaysia,Export,Palau,3886983.619
 2022,Malaysia,Export,Papua New Guinea,510627763.5
@@ -698,7 +698,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2023,Malaysia,Export,Norfolk Isds,1701744.255
 2023,Malaysia,Export,Norway,155905314.3
 2023,Malaysia,Export,N. Mariana Isds,431055.745
-2023,Malaysia,Export,FS Micronesia,984968.811
+2023,Malaysia,Export,Micronesia,984968.811
 2023,Malaysia,Export,Marshall Isds,14230943.57
 2023,Malaysia,Export,Palau,334644.368
 2023,Malaysia,Export,Pakistan,961437752.9
