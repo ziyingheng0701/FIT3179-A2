@@ -4,7 +4,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2020,Malaysia,Export,Saint Helena,35173.457
 2020,Malaysia,Export,Indonesia,7039109642
 2020,Malaysia,Export,Cayman Isds,181131.493
-2020,Malaysia,Export,State of Palestine,3310693.957
+2020,Malaysia,Export,Palestine,3310693.957
 2020,Malaysia,Export,Sao Tome and Principe,372769.989
 2020,Malaysia,Export,Antarctica,104009.957
 2020,Malaysia,Export,Montserrat,4678.74
@@ -226,7 +226,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2021,Malaysia,Export,Pitcairn,204959.692
 2021,Malaysia,Export,Tajikistan,7648429.348
 2021,Malaysia,Export,Eritrea,2157648.533
-2021,Malaysia,Export,State of Palestine,1112574.437
+2021,Malaysia,Export,Palestine,1112574.437
 2021,Malaysia,Export,Saint Helena,46704.586
 2021,Malaysia,Export,Saint Vincent and the Grenadines,720655.933
 2021,Malaysia,Export,Falkland Isds (Malvinas),50.684
@@ -631,7 +631,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2022,Malaysia,Export,Gabon,23687355.49
 2022,Malaysia,Export,Georgia,30954957.97
 2022,Malaysia,Export,Gambia,25951378.43
-2022,Malaysia,Export,State of Palestine,1560265.791
+2022,Malaysia,Export,Palestine,1560265.791
 2022,Malaysia,Export,Germany,6823370559
 2022,Malaysia,Export,Ghana,350758974.7
 2022,Malaysia,Export,Gibraltar,308475.897
@@ -680,7 +680,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2023,Malaysia,Export,Gabon,27044238.68
 2023,Malaysia,Export,Georgia,38285281.04
 2023,Malaysia,Export,Gambia,37722753.36
-2023,Malaysia,Export,State of Palestine,2953523.728
+2023,Malaysia,Export,Palestine,2953523.728
 2023,Malaysia,Export,Germany,6701374981
 2023,Malaysia,Export,Ghana,229754039.4
 2023,Malaysia,Export,Gibraltar,373649.779
