@@ -70,7 +70,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2020,Malaysia,Export,Liberia,15976738.66
 2020,Malaysia,Export,Côte d'Ivoire,114398503.9
 2020,Malaysia,Export,Gibraltar,25355805.22
-2020,Malaysia,Export,Brunei Darussalam,660444995.2
+2020,Malaysia,Export,Brunei,660444995.2
 2020,Malaysia,Export,Saint Lucia,339369.823
 2020,Malaysia,Export,Sri Lanka,625211465.9
 2020,Malaysia,Export,Rwanda,1237919.847
@@ -381,7 +381,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2021,Malaysia,Export,Nepal,56040625.16
 2021,Malaysia,Export,Morocco,90582016.74
 2021,Malaysia,Export,Eq. Guinea,9999343.506
-2021,Malaysia,Export,Brunei Darussalam,1394108826
+2021,Malaysia,Export,Brunei,1394108826
 2021,Malaysia,Export,Germany,6868187511
 2021,Malaysia,Export,Sweden,467653182.5
 2021,Malaysia,Export,Samoa,11760515.09
@@ -536,7 +536,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2022,Malaysia,Export,Belize,2261698.28
 2022,Malaysia,Export,Solomon Isds,61776034.37
 2022,Malaysia,Export,Br. Virgin Isds,332762.91
-2022,Malaysia,Export,Brunei Darussalam,1737936489
+2022,Malaysia,Export,Brunei,1737936489
 2022,Malaysia,Export,Bulgaria,104414431.3
 2022,Malaysia,Export,Myanmar,1355740377
 2022,Malaysia,Export,Belarus,5012909.304
@@ -787,7 +787,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2023,Malaysia,Export,Belize,2861509.338
 2023,Malaysia,Export,Solomon Isds,25513932.82
 2023,Malaysia,Export,Br. Virgin Isds,335161.402
-2023,Malaysia,Export,Brunei Darussalam,1403799329
+2023,Malaysia,Export,Brunei,1403799329
 2023,Malaysia,Export,Bulgaria,104814590.8
 2023,Malaysia,Export,Myanmar,877942926.7
 2023,Malaysia,Export,Burundi,16386.794
