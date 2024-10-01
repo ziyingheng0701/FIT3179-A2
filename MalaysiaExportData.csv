@@ -19,7 +19,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2020,Malaysia,Export,Nepal,37133558.77
 2020,Malaysia,Export,Curaçao,1642796.075
 2020,Malaysia,Export,Mali,14442507.57
-2020,Malaysia,Export,Lao People's Dem. Rep.,13379012.64
+2020,Malaysia,Export,Laos,13379012.64
 2020,Malaysia,Export,Sweden,353585634.2
 2020,Malaysia,Export,Armenia,1603625.217
 2020,Malaysia,Export,Venezuela,5099960.5
@@ -392,7 +392,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2021,Malaysia,Export,Central African Rep.,1028268.642
 2021,Malaysia,Export,Saint Kitts and Nevis,228051.202
 2021,Malaysia,Export,Benin,94161568.44
-2021,Malaysia,Export,Lao People's Dem. Rep.,27337540.72
+2021,Malaysia,Export,Laos,27337540.72
 2021,Malaysia,Export,Br. Virgin Isds,45368.452
 2021,Malaysia,Export,Jordan,193106657.4
 2021,Malaysia,Export,Ukraine,177126164.9
@@ -554,7 +554,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2022,Malaysia,Export,South Korea,12475676294
 2022,Malaysia,Export,Kuwait,199468108.2
 2022,Malaysia,Export,Kyrgyzstan,8773769.915
-2022,Malaysia,Export,Lao People's Dem. Rep.,215055707.9
+2022,Malaysia,Export,Laos,215055707.9
 2022,Malaysia,Export,Lebanon,56054680.66
 2022,Malaysia,Export,Latvia,47182201.94
 2022,Malaysia,Export,Liberia,22680522.94
@@ -837,7 +837,7 @@ Year,Origin,flowDesc,ExportCountry,tradeValue
 2023,Malaysia,Export,South Korea,12251988522
 2023,Malaysia,Export,Kuwait,191071820.6
 2023,Malaysia,Export,Kyrgyzstan,35323635.83
-2023,Malaysia,Export,Lao People's Dem. Rep.,29626455.95
+2023,Malaysia,Export,Laos,29626455.95
 2023,Malaysia,Export,Lebanon,58186946.92
 2023,Malaysia,Export,Lesotho,174709.222
 2023,Malaysia,Export,Latvia,35997991.42
