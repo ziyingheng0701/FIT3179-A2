@@ -1,0 +1,888 @@
+Year,Origin,flowDesc,ExportCountry,tradeValue
+2020,Malaysia,Export,Thailand,10786175541.00
+2020,Malaysia,Export,World,234000000000.00
+2020,Malaysia,Export,Solomon Isds,19853006.80
+2020,Malaysia,Export,Saint Helena,35173.46
+2020,Malaysia,Export,Indonesia,7039109642.00
+2020,Malaysia,Export,Cayman Isds,181131.49
+2020,Malaysia,Export,State of Palestine,3310693.96
+2020,Malaysia,Export,Sao Tome and Principe,372769.99
+2020,Malaysia,Export,Antarctica,104009.96
+2020,Malaysia,Export,Montserrat,4678.74
+2020,Malaysia,Export,Saint Vincent and the Grenadines,1491934.01
+2020,Malaysia,Export,Niue,366.36
+2020,Malaysia,Export,Br. Indian Ocean Terr.,6221.27
+2020,Malaysia,Export,Aruba,39499.39
+2020,Malaysia,Export,Eritrea,1861939.15
+2020,Malaysia,Export,Cocos Isds,39960.20
+2020,Malaysia,Export,Algeria,87475345.34
+2020,Malaysia,Export,Congo,42281563.96
+2020,Malaysia,Export,Nepal,37133558.77
+2020,Malaysia,Export,Curaçao,1642796.08
+2020,Malaysia,Export,Mali,14442507.57
+2020,Malaysia,Export,Lao People's Dem. Rep.,13379012.64
+2020,Malaysia,Export,Sweden,353585634.20
+2020,Malaysia,Export,Armenia,1603625.22
+2020,Malaysia,Export,Venezuela,5099960.50
+2020,Malaysia,Export,Pakistan,1132697401.00
+2020,Malaysia,Export,Bulgaria,112979104.80
+2020,Malaysia,Export,USA,25984205303.00
+2020,Malaysia,Export,Uganda,7325962.57
+2020,Malaysia,Export,Barbados,2393680.67
+2020,Malaysia,Export,Türkiye,1840624475.00
+2020,Malaysia,Export,Ukraine,127234742.80
+2020,Malaysia,Export,Trinidad and Tobago,20423916.09
+2020,Malaysia,Export,Denmark,209926137.50
+2020,Malaysia,Export,Turks and Caicos Isds,54769.59
+2020,Malaysia,Export,Myanmar,729519569.20
+2020,Malaysia,Export,Angola,140989077.80
+2020,Malaysia,Export,Hungary,527964868.00
+2020,Malaysia,Export,Kazakhstan,103156265.00
+2020,Malaysia,Export,Honduras,12425688.74
+2020,Malaysia,Export,Albania,4770145.61
+2020,Malaysia,Export,Gabon,26667078.77
+2020,Malaysia,Export,Libya,14464153.91
+2020,Malaysia,Export,Norfolk Isds,7724207.15
+2020,Malaysia,Export,Iran,320081604.80
+2020,Malaysia,Export,Sierra Leone,21809464.49
+2020,Malaysia,Export,Mauritius,69408511.46
+2020,Malaysia,Export,Mongolia,24769301.96
+2020,Malaysia,Export,Guam,2452707.21
+2020,Malaysia,Export,French Polynesia,7612299.93
+2020,Malaysia,Export,Br. Virgin Isds,118098.28
+2020,Malaysia,Export,Marshall Isds,2070876.64
+2020,Malaysia,Export,Georgia,37400431.80
+2020,Malaysia,Export,Togo,160084196.30
+2020,Malaysia,Export,Seychelles,10425507.54
+2020,Malaysia,Export,Guatemala,32785041.45
+2020,Malaysia,Export,Cambodia,355705363.20
+2020,Malaysia,Export,Central African Rep.,609198.73
+2020,Malaysia,Export,Suriname,8315115.33
+2020,Malaysia,Export,"Areas, nes",28562558.92
+2020,Malaysia,Export,South Africa,613002955.00
+2020,Malaysia,Export,Switzerland,641561848.60
+2020,Malaysia,Export,Viet Nam,7352144153.00
+2020,Malaysia,Export,Jordan,89907379.45
+2020,Malaysia,Export,Qatar,268353781.90
+2020,Malaysia,Export,Niger,13311531.20
+2020,Malaysia,Export,Sudan,63079906.52
+2020,Malaysia,Export,Burkina Faso,5461814.06
+2020,Malaysia,Export,United Rep. of Tanzania,156755688.80
+2020,Malaysia,Export,Liberia,15976738.66
+2020,Malaysia,Export,Côte d'Ivoire,114398503.90
+2020,Malaysia,Export,Gibraltar,25355805.22
+2020,Malaysia,Export,Brunei Darussalam,660444995.20
+2020,Malaysia,Export,Saint Lucia,339369.82
+2020,Malaysia,Export,Sri Lanka,625211465.90
+2020,Malaysia,Export,Rwanda,1237919.85
+2020,Malaysia,Export,France,1242432011.00
+2020,Malaysia,Export,Senegal,62792699.88
+2020,Malaysia,Export,Italy,1301529762.00
+2020,Malaysia,Export,Poland,570797100.40
+2020,Malaysia,Export,New Caledonia,43827206.30
+2020,Malaysia,Export,Dominican Rep.,37812450.91
+2020,Malaysia,Export,Benin,98025340.39
+2020,Malaysia,Export,Kuwait,130330240.40
+2020,Malaysia,Export,Tonga,1879412.99
+2020,Malaysia,Export,Australia,5794920462.00
+2020,Malaysia,Export,Jamaica,13103929.75
+2020,Malaysia,Export,Syria,25490155.02
+2020,Malaysia,Export,Guinea-Bissau,692560.33
+2020,Malaysia,Export,Ethiopia,31670019.47
+2020,Malaysia,Export,Fiji,44785560.55
+2020,Malaysia,Export,Cuba,3154768.95
+2020,Malaysia,Export,Cyprus,10832384.97
+2020,Malaysia,Export,Slovakia,50552252.56
+2020,Malaysia,Export,India,7233000122.00
+2020,Malaysia,Export,Netherlands,5587739409.00
+2020,Malaysia,Export,Japan,14883236601.00
+2020,Malaysia,Export,Portugal,104594784.20
+2020,Malaysia,Export,United Kingdom,2375537687.00
+2020,Malaysia,Export,Guyana,5463439.38
+2020,Malaysia,Export,Bahamas,1382389.36
+2020,Malaysia,Export,Bangladesh,1228195352.00
+2020,Malaysia,Export,Uruguay,17966111.91
+2020,Malaysia,Export,Slovenia,470830286.80
+2020,Malaysia,Export,Nigeria,638932616.50
+2020,Malaysia,Export,Anguilla,41883.13
+2020,Malaysia,Export,Egypt,395419452.00
+2020,Malaysia,Export,Papua New Guinea,248473104.70
+2020,Malaysia,Export,Burundi,4240.29
+2020,Malaysia,Export,Pitcairn,21690.83
+2020,Malaysia,Export,Brazil,727790406.90
+2020,Malaysia,Export,Czechia,572492627.70
+2020,Malaysia,Export,Turkmenistan,4936714.89
+2020,Malaysia,Export,Romania,144633233.20
+2020,Malaysia,Export,Malta,23020520.66
+2020,Malaysia,Export,Chad,811717.25
+2020,Malaysia,Export,Christmas Isds,1637412.92
+2020,Malaysia,Export,Estonia,76996361.90
+2020,Malaysia,Export,Andorra,242630.03
+2020,Malaysia,Export,Nauru,542832.33
+2020,Malaysia,Export,Cook Isds,242069.54
+2020,Malaysia,Export,Tokelau,6796.03
+2020,Malaysia,Export,Iceland,1453300.33
+2020,Malaysia,Export,Djibouti,110176591.40
+2020,Malaysia,Export,Dem. Rep. of the Congo,18019642.30
+2020,Malaysia,Export,Afghanistan,118273054.00
+2020,Malaysia,Export,Belgium,1073769411.00
+2020,Malaysia,Export,Kyrgyzstan,1086664.54
+2020,Malaysia,Export,Latvia,26136459.18
+2020,Malaysia,Export,Cabo Verde,4293561.69
+2020,Malaysia,Export,Paraguay,4287897.34
+2020,Malaysia,Export,Zambia,5366782.38
+2020,Malaysia,Export,Somalia,89901070.64
+2020,Malaysia,Export,N. Mariana Isds,724176.74
+2020,Malaysia,Export,Antigua and Barbuda,460558.40
+2020,Malaysia,Export,Ghana,299272574.90
+2020,Malaysia,Export,Bermuda,1049133.75
+2020,Malaysia,Export,Chile,161869392.90
+2020,Malaysia,Export,Samoa,3543144.33
+2020,Malaysia,Export,Serbia,6327664.53
+2020,Malaysia,Export,Russian Federation,723215239.20
+2020,Malaysia,Export,Yemen,197729458.40
+2020,Malaysia,Export,Argentina,126821808.70
+2020,Malaysia,Export,Canada,946355522.90
+2020,Malaysia,Export,Madagascar,83134281.13
+2020,Malaysia,Export,China,37878831339.00
+2020,Malaysia,Export,Bahrain,61183504.04
+2020,Malaysia,Export,Bhutan,1325836.24
+2020,Malaysia,Export,FS Micronesia,720266.65
+2020,Malaysia,Export,Ecuador,25672503.12
+2020,Malaysia,Export,Colombia,101071533.40
+2020,Malaysia,Export,Croatia,17998907.58
+2020,Malaysia,Export,United Arab Emirates,2020203460.00
+2020,Malaysia,Export,Spain,980682672.30
+2020,Malaysia,Export,Oman,180868089.90
+2020,Malaysia,Export,Malawi,5272567.39
+2020,Malaysia,Export,Belize,1831719.20
+2020,Malaysia,Export,Haiti,17253258.41
+2020,Malaysia,Export,Uzbekistan,50035044.94
+2020,Malaysia,Export,Palau,567089.12
+2020,Malaysia,Export,"China, Hong Kong SAR",16216749059.00
+2020,Malaysia,Export,Iraq,119211099.60
+2020,Malaysia,Export,Dominica,412257.01
+2020,Malaysia,Export,Saint Kitts and Nevis,65452.40
+2020,Malaysia,Export,Lebanon,38341609.33
+2020,Malaysia,Export,Azerbaijan,22739378.03
+2020,Malaysia,Export,Kenya,536374136.70
+2020,Malaysia,Export,Tuvalu,349201.43
+2020,Malaysia,Export,Zimbabwe,72703080.93
+2020,Malaysia,Export,Norway,129931525.50
+2020,Malaysia,Export,Rep. of Moldova,1263963.26
+2020,Malaysia,Export,Philippines,4188601389.00
+2020,Malaysia,Export,Vanuatu,3067453.24
+2020,Malaysia,Export,New Zealand,908211535.00
+2020,Malaysia,Export,Germany,5874581791.00
+2020,Malaysia,Export,Finland,164096898.90
+2020,Malaysia,Export,Singapore,33816086267.00
+2020,Malaysia,Export,"Other Asia, nes",8058445094.00
+2020,Malaysia,Export,Faeroe Isds,122456.33
+2020,Malaysia,Export,Mexico,1999730783.00
+2020,Malaysia,Export,Tunisia,114661808.70
+2020,Malaysia,Export,Wallis and Futuna Isds,47128.55
+2020,Malaysia,Export,Morocco,79178055.71
+2020,Malaysia,Export,Costa Rica,306882050.30
+2020,Malaysia,Export,Namibia,5410348.16
+2020,Malaysia,Export,United States Minor Outlying Islands,210657.73
+2020,Malaysia,Export,Holy See (Vatican City State),94917.26
+2020,Malaysia,Export,Panama,87436596.28
+2020,Malaysia,Export,Equatorial Guinea,11603654.33
+2020,Malaysia,Export,Cameroon,53604557.17
+2020,Malaysia,Export,Gambia,30516655.23
+2020,Malaysia,Export,Lesotho,182865.53
+2020,Malaysia,Export,Montenegro,1475219.06
+2020,Malaysia,Export,"China, Macao SAR",27198731.08
+2020,Malaysia,Export,Bolivia (Plurinational State of),11019548.12
+2020,Malaysia,Export,Austria,122373280.30
+2020,Malaysia,Export,North Macedonia,2631750.67
+2020,Malaysia,Export,Peru,154499593.30
+2020,Malaysia,Export,Ireland,289287981.80
+2020,Malaysia,Export,Saudi Arabia,984562502.70
+2020,Malaysia,Export,Nicaragua,4670927.40
+2020,Malaysia,Export,Grenada,898239.57
+2020,Malaysia,Export,Luxembourg,16486774.84
+2020,Malaysia,Export,Tajikistan,1462551.47
+2020,Malaysia,Export,Mauritania,61629167.64
+2020,Malaysia,Export,Kiribati,1789385.49
+2020,Malaysia,Export,Lithuania,36844876.68
+2020,Malaysia,Export,Guinea,22798013.71
+2020,Malaysia,Export,Comoros,3502061.73
+2020,Malaysia,Export,Botswana,1394465.53
+2020,Malaysia,Export,Maldives,86883605.23
+2020,Malaysia,Export,Bosnia Herzegovina,1161301.23
+2020,Malaysia,Export,El Salvador,10754226.43
+2020,Malaysia,Export,Timor-Leste,30478982.66
+2020,Malaysia,Export,Greece,124035521.90
+2020,Malaysia,Export,Mozambique,244310763.70
+2020,Malaysia,Export,Rep. of Korea,8258351929.00
+2020,Malaysia,Export,Belarus,5909057.31
+2020,Malaysia,Export,American Samoa,3806023.05
+2021,Malaysia,Export,Thailand,12646128852.00
+2021,Malaysia,Export,Indonesia,9465142518.00
+2021,Malaysia,Export,Rep. of Moldova,3010169.00
+2021,Malaysia,Export,World,299000000000.00
+2021,Malaysia,Export,Sao Tome and Principe,953342.33
+2021,Malaysia,Export,Guinea-Bissau,2027135.10
+2021,Malaysia,Export,Turks and Caicos Isds,10800.09
+2021,Malaysia,Export,Antarctica,215994.38
+2021,Malaysia,Export,Andorra,258566.51
+2021,Malaysia,Export,Pitcairn,204959.69
+2021,Malaysia,Export,Tajikistan,7648429.35
+2021,Malaysia,Export,Eritrea,2157648.53
+2021,Malaysia,Export,State of Palestine,1112574.44
+2021,Malaysia,Export,Saint Helena,46704.59
+2021,Malaysia,Export,Saint Vincent and the Grenadines,720655.93
+2021,Malaysia,Export,Falkland Isds (Malvinas),50.68
+2021,Malaysia,Export,Montserrat,220748.81
+2021,Malaysia,Export,Gambia,33206813.30
+2021,Malaysia,Export,New Caledonia,62004049.79
+2021,Malaysia,Export,Norway,190507912.60
+2021,Malaysia,Export,Romania,128706914.40
+2021,Malaysia,Export,Brazil,1035691985.00
+2021,Malaysia,Export,Dominican Rep.,62770282.47
+2021,Malaysia,Export,Rep. of Korea,9087297935.00
+2021,Malaysia,Export,Malawi,7063930.91
+2021,Malaysia,Export,Gibraltar,1520149.07
+2021,Malaysia,Export,Sudan,29662542.19
+2021,Malaysia,Export,N. Mariana Isds,919272.85
+2021,Malaysia,Export,Serbia,9902001.24
+2021,Malaysia,Export,USA,34366250028.00
+2021,Malaysia,Export,Costa Rica,938907797.80
+2021,Malaysia,Export,"China, Hong Kong SAR",18494037029.00
+2021,Malaysia,Export,Yemen,195238795.50
+2021,Malaysia,Export,Iran,565660507.80
+2021,Malaysia,Export,Timor-Leste,20741632.20
+2021,Malaysia,Export,Philippines,5459821685.00
+2021,Malaysia,Export,Burundi,312438.82
+2021,Malaysia,Export,United Rep. of Tanzania,394608491.10
+2021,Malaysia,Export,Luxembourg,58493242.85
+2021,Malaysia,Export,Niger,5826629.49
+2021,Malaysia,Export,Croatia,29151773.91
+2021,Malaysia,Export,Türkiye,3409109875.00
+2021,Malaysia,Export,Norfolk Isds,2244513.88
+2021,Malaysia,Export,North Macedonia,4522003.92
+2021,Malaysia,Export,"Areas, nes",41072658.12
+2021,Malaysia,Export,Singapore,41847308487.00
+2021,Malaysia,Export,Namibia,4790999.80
+2021,Malaysia,Export,Cambodia,457104598.00
+2021,Malaysia,Export,Bermuda,217075.89
+2021,Malaysia,Export,Uzbekistan,48795659.95
+2021,Malaysia,Export,Nigeria,909218345.20
+2021,Malaysia,Export,Russian Federation,930367752.10
+2021,Malaysia,Export,Oman,290657882.20
+2021,Malaysia,Export,Djibouti,181570664.40
+2021,Malaysia,Export,China,46351724875.00
+2021,Malaysia,Export,Vanuatu,18496843.65
+2021,Malaysia,Export,Burkina Faso,7851436.25
+2021,Malaysia,Export,United Kingdom,2360787592.00
+2021,Malaysia,Export,Ireland,261722964.30
+2021,Malaysia,Export,Lebanon,48151650.21
+2021,Malaysia,Export,Myanmar,654004197.00
+2021,Malaysia,Export,Anguilla,74078.68
+2021,Malaysia,Export,Mexico,2797179673.00
+2021,Malaysia,Export,France,1394978506.00
+2021,Malaysia,Export,Malta,24441604.65
+2021,Malaysia,Export,Albania,3542671.18
+2021,Malaysia,Export,Belarus,3885054.26
+2021,Malaysia,Export,Papua New Guinea,341327816.60
+2021,Malaysia,Export,Honduras,25660688.69
+2021,Malaysia,Export,Bolivia (Plurinational State of),20368387.22
+2021,Malaysia,Export,Azerbaijan,30233233.03
+2021,Malaysia,Export,Bosnia Herzegovina,951082.78
+2021,Malaysia,Export,Switzerland,472404859.00
+2021,Malaysia,Export,Kiribati,2555479.48
+2021,Malaysia,Export,Peru,190905741.10
+2021,Malaysia,Export,Sri Lanka,729786604.80
+2021,Malaysia,Export,Kuwait,183552544.70
+2021,Malaysia,Export,Trinidad and Tobago,29899985.43
+2021,Malaysia,Export,Tuvalu,215995.35
+2021,Malaysia,Export,Greenland,93226.95
+2021,Malaysia,Export,Australia,8482353314.00
+2021,Malaysia,Export,Slovenia,608912285.00
+2021,Malaysia,Export,Mali,3913095.93
+2021,Malaysia,Export,Saint Lucia,1393892.39
+2021,Malaysia,Export,Faeroe Isds,159659.30
+2021,Malaysia,Export,Slovakia,70825145.33
+2021,Malaysia,Export,Christmas Isds,4398649.27
+2021,Malaysia,Export,Bulgaria,110354878.30
+2021,Malaysia,Export,Lithuania,40772114.17
+2021,Malaysia,Export,Kazakhstan,88292321.69
+2021,Malaysia,Export,Cameroon,44624869.52
+2021,Malaysia,Export,Senegal,148268917.30
+2021,Malaysia,Export,Solomon Isds,45586934.13
+2021,Malaysia,Export,Bahamas,814283.53
+2021,Malaysia,Export,Georgia,50476044.67
+2021,Malaysia,Export,Mozambique,482257370.90
+2021,Malaysia,Export,Madagascar,138449272.50
+2021,Malaysia,Export,Syria,42366793.73
+2021,Malaysia,Export,Canada,1534255610.00
+2021,Malaysia,Export,Chile,226655123.20
+2021,Malaysia,Export,Guam,3234306.65
+2021,Malaysia,Export,Grenada,661680.20
+2021,Malaysia,Export,"Other Asia, nes",9784222162.00
+2021,Malaysia,Export,South Sudan,219295.62
+2021,Malaysia,Export,Ecuador,34632365.25
+2021,Malaysia,Export,Mauritania,48903348.81
+2021,Malaysia,Export,Lesotho,219399.64
+2021,Malaysia,Export,Austria,129504169.90
+2021,Malaysia,Export,Maldives,120687211.20
+2021,Malaysia,Export,Iraq,449796261.70
+2021,Malaysia,Export,Nicaragua,8223306.71
+2021,Malaysia,Export,Chad,259076.49
+2021,Malaysia,Export,Viet Nam,10982097604.00
+2021,Malaysia,Export,Finland,257679603.30
+2021,Malaysia,Export,Japan,18166720215.00
+2021,Malaysia,Export,Czechia,793833133.10
+2021,Malaysia,Export,Estonia,65998081.98
+2021,Malaysia,Export,Br. Indian Ocean Terr.,200177.99
+2021,Malaysia,Export,Dem. Rep. of the Congo,26082992.66
+2021,Malaysia,Export,Botswana,2713294.35
+2021,Malaysia,Export,Congo,42059314.25
+2021,Malaysia,Export,Barbados,5183323.54
+2021,Malaysia,Export,Denmark,293813244.20
+2021,Malaysia,Export,Cook Isds,322125.55
+2021,Malaysia,Export,Algeria,116222515.70
+2021,Malaysia,Export,South Africa,835585043.10
+2021,Malaysia,Export,Argentina,199464234.00
+2021,Malaysia,Export,Kenya,1126436782.00
+2021,Malaysia,Export,United Arab Emirates,2555259716.00
+2021,Malaysia,Export,Italy,1724218119.00
+2021,Malaysia,Export,El Salvador,17863222.50
+2021,Malaysia,Export,Aruba,58091.41
+2021,Malaysia,Export,Spain,1133982370.00
+2021,Malaysia,Export,Somalia,87321143.57
+2021,Malaysia,Export,Latvia,36851660.33
+2021,Malaysia,Export,Jamaica,13943939.71
+2021,Malaysia,Export,Bhutan,1678470.79
+2021,Malaysia,Export,Angola,183402962.40
+2021,Malaysia,Export,New Zealand,1066459061.00
+2021,Malaysia,Export,Greece,193809713.30
+2021,Malaysia,Export,Rwanda,5838130.23
+2021,Malaysia,Export,Belize,2157561.41
+2021,Malaysia,Export,Montenegro,2259395.75
+2021,Malaysia,Export,American Samoa,18628689.84
+2021,Malaysia,Export,Kyrgyzstan,2467061.98
+2021,Malaysia,Export,Iceland,55786720.64
+2021,Malaysia,Export,Bangladesh,2258665129.00
+2021,Malaysia,Export,Venezuela,10345483.26
+2021,Malaysia,Export,FS Micronesia,1276175.29
+2021,Malaysia,Export,Paraguay,7341084.54
+2021,Malaysia,Export,Liberia,15597744.88
+2021,Malaysia,Export,Wallis and Futuna Isds,44174.96
+2021,Malaysia,Export,Palau,337612.73
+2021,Malaysia,Export,Ethiopia,44234151.03
+2021,Malaysia,Export,Comoros,4654139.97
+2021,Malaysia,Export,Egypt,688269500.30
+2021,Malaysia,Export,Dominica,800522.27
+2021,Malaysia,Export,Gabon,23570538.57
+2021,Malaysia,Export,Portugal,94127753.59
+2021,Malaysia,Export,India,10905264687.00
+2021,Malaysia,Export,Netherlands,7524331729.00
+2021,Malaysia,Export,Zambia,5934368.55
+2021,Malaysia,Export,Uganda,16524379.26
+2021,Malaysia,Export,Uruguay,31415613.46
+2021,Malaysia,Export,Mongolia,34407341.83
+2021,Malaysia,Export,Nepal,56040625.16
+2021,Malaysia,Export,Morocco,90582016.74
+2021,Malaysia,Export,Equatorial Guinea,9999343.51
+2021,Malaysia,Export,Brunei Darussalam,1394108826.00
+2021,Malaysia,Export,Germany,6868187511.00
+2021,Malaysia,Export,Sweden,467653182.50
+2021,Malaysia,Export,Samoa,11760515.09
+2021,Malaysia,Export,Tonga,2925655.40
+2021,Malaysia,Export,Pakistan,1446694021.00
+2021,Malaysia,Export,Panama,144343633.70
+2021,Malaysia,Export,Tunisia,123115154.80
+2021,Malaysia,Export,Central African Rep.,1028268.64
+2021,Malaysia,Export,Saint Kitts and Nevis,228051.20
+2021,Malaysia,Export,Benin,94161568.44
+2021,Malaysia,Export,Lao People's Dem. Rep.,27337540.72
+2021,Malaysia,Export,Br. Virgin Isds,45368.45
+2021,Malaysia,Export,Jordan,193106657.40
+2021,Malaysia,Export,Ukraine,177126164.90
+2021,Malaysia,Export,Côte d'Ivoire,120968165.60
+2021,Malaysia,Export,Haiti,8462017.78
+2021,Malaysia,Export,Poland,742580607.80
+2021,Malaysia,Export,Niue,4769.15
+2021,Malaysia,Export,Cuba,5245154.96
+2021,Malaysia,Export,Marshall Isds,857502.25
+2021,Malaysia,Export,Libya,19176851.04
+2021,Malaysia,Export,Guatemala,51973923.32
+2021,Malaysia,Export,United States Minor Outlying Islands,1484731.63
+2021,Malaysia,Export,Ghana,570197986.10
+2021,Malaysia,Export,Colombia,157619204.90
+2021,Malaysia,Export,Guyana,11883663.38
+2021,Malaysia,Export,Seychelles,13648035.31
+2021,Malaysia,Export,French Polynesia,39199460.79
+2021,Malaysia,Export,Guinea,35410990.71
+2021,Malaysia,Export,Mauritius,82395118.22
+2021,Malaysia,Export,Suriname,5120426.78
+2021,Malaysia,Export,Hungary,543910890.00
+2021,Malaysia,Export,Cyprus,14313532.76
+2021,Malaysia,Export,Bahrain,85470115.78
+2021,Malaysia,Export,"China, Macao SAR",28767724.98
+2021,Malaysia,Export,Cayman Isds,153870.43
+2021,Malaysia,Export,Cabo Verde,855451.71
+2021,Malaysia,Export,Saudi Arabia,1220386159.00
+2021,Malaysia,Export,Antigua and Barbuda,1443974.96
+2021,Malaysia,Export,Afghanistan,215664778.70
+2021,Malaysia,Export,Fiji,105812919.50
+2021,Malaysia,Export,Tokelau,57849.57
+2021,Malaysia,Export,Armenia,1783506.21
+2021,Malaysia,Export,Togo,329581625.40
+2021,Malaysia,Export,Zimbabwe,2300365.77
+2021,Malaysia,Export,Qatar,359213841.50
+2021,Malaysia,Export,Turkmenistan,4007822.17
+2021,Malaysia,Export,Sierra Leone,15885995.72
+2021,Malaysia,Export,Nauru,606511.59
+2021,Malaysia,Export,Curaçao,408327.66
+2021,Malaysia,Export,Belgium,1545963120.00
+2022,Malaysia,Export,Niue,6766.30
+2022,Malaysia,Export,United States Minor Outlying Islands,1584.39
+2022,Malaysia,Export,Western Sahara,194720.32
+2022,Malaysia,Export,Tokelau,44933.10
+2022,Malaysia,Export,Turks and Caicos Isds,406.72
+2022,Malaysia,Export,Tuvalu,151882.84
+2022,Malaysia,Export,Br. Indian Ocean Terr.,107999.94
+2022,Malaysia,Export,Burundi,100306.37
+2022,Malaysia,Export,Lesotho,122204.88
+2022,Malaysia,Export,Pitcairn,5238.04
+2022,Malaysia,Export,Guinea-Bissau,3144833.82
+2022,Malaysia,Export,Sao Tome and Principe,1128024.72
+2022,Malaysia,Export,Antarctica,94964.27
+2022,Malaysia,Export,Cocos Isds,335.15
+2022,Malaysia,Export,Comoros,8685119.10
+2022,Malaysia,Export,Falkland Isds (Malvinas),46.81
+2022,Malaysia,Export,South Georgia and the South Sandwich Islands,47.94
+2022,Malaysia,Export,Greenland,1048.83
+2022,Malaysia,Export,Holy See (Vatican City State),139210.26
+2022,Malaysia,Export,Mongolia,43766167.65
+2022,Malaysia,Export,Libya,12384491.12
+2022,Malaysia,Export,Lithuania,36094757.82
+2022,Malaysia,Export,"China, Macao SAR",36999929.79
+2022,Malaysia,Export,Malawi,2406535.12
+2022,Malaysia,Export,Maldives,228898825.60
+2022,Malaysia,Export,Mali,2035998.95
+2022,Malaysia,Export,Malta,48386593.20
+2022,Malaysia,Export,Mexico,3796097784.00
+2022,Malaysia,Export,Luxembourg,64952912.40
+2022,Malaysia,Export,Madagascar,125206908.90
+2022,Malaysia,Export,Mauritania,77599377.84
+2022,Malaysia,Export,Mauritius,111007379.50
+2022,Malaysia,Export,"Other Asia, nes",11757353044.00
+2022,Malaysia,Export,Rep. of Moldova,862302.91
+2022,Malaysia,Export,Montenegro,902173.61
+2022,Malaysia,Export,Morocco,113640300.60
+2022,Malaysia,Export,Mozambique,601955048.80
+2022,Malaysia,Export,Oman,341983407.70
+2022,Malaysia,Export,Nauru,575194.28
+2022,Malaysia,Export,Nepal,57533515.92
+2022,Malaysia,Export,New Caledonia,156911495.80
+2022,Malaysia,Export,Nicaragua,7559550.38
+2022,Malaysia,Export,Niger,6628095.07
+2022,Malaysia,Export,Nigeria,531000236.60
+2022,Malaysia,Export,Pakistan,1366961301.00
+2022,Malaysia,Export,Panama,87348911.54
+2022,Malaysia,Export,Namibia,11577941.16
+2022,Malaysia,Export,Netherlands,9531745337.00
+2022,Malaysia,Export,Curaçao,836194.29
+2022,Malaysia,Export,Vanuatu,49145576.16
+2022,Malaysia,Export,New Zealand,1560944221.00
+2022,Malaysia,Export,Norfolk Isds,1224335.02
+2022,Malaysia,Export,Norway,183408666.60
+2022,Malaysia,Export,N. Mariana Isds,460334.43
+2022,Malaysia,Export,FS Micronesia,1070040.04
+2022,Malaysia,Export,Marshall Isds,62921366.68
+2022,Malaysia,Export,Palau,3886983.62
+2022,Malaysia,Export,Papua New Guinea,510627763.50
+2022,Malaysia,Export,Paraguay,10540436.35
+2022,Malaysia,Export,Peru,176085069.60
+2022,Malaysia,Export,Philippines,6415430808.00
+2022,Malaysia,Export,Slovenia,391386872.10
+2022,Malaysia,Export,Spain,1295626425.00
+2022,Malaysia,Export,South Sudan,129091.60
+2022,Malaysia,Export,Sudan,62701086.70
+2022,Malaysia,Export,Switzerland,613773603.60
+2022,Malaysia,Export,Syria,63411300.91
+2022,Malaysia,Export,Tajikistan,2396929.06
+2022,Malaysia,Export,Somalia,125657790.40
+2022,Malaysia,Export,South Africa,1634988671.00
+2022,Malaysia,Export,Suriname,7757354.03
+2022,Malaysia,Export,Sweden,469053593.70
+2022,Malaysia,Export,Togo,526135774.60
+2022,Malaysia,Export,United Arab Emirates,3508784922.00
+2022,Malaysia,Export,Tunisia,149740662.80
+2022,Malaysia,Export,Ukraine,42651316.98
+2022,Malaysia,Export,United Kingdom,2109616553.00
+2022,Malaysia,Export,USA,38025492595.00
+2022,Malaysia,Export,Tonga,4215445.08
+2022,Malaysia,Export,Trinidad and Tobago,35237461.19
+2022,Malaysia,Export,Türkiye,3951187491.00
+2022,Malaysia,Export,Turkmenistan,8255218.14
+2022,Malaysia,Export,Uganda,7389528.11
+2022,Malaysia,Export,North Macedonia,5314062.45
+2022,Malaysia,Export,Egypt,811381804.80
+2022,Malaysia,Export,United Rep. of Tanzania,405665355.30
+2022,Malaysia,Export,Burkina Faso,3353762.02
+2022,Malaysia,Export,Uruguay,45738855.95
+2022,Malaysia,Export,Uzbekistan,71364918.29
+2022,Malaysia,Export,Venezuela,10913284.91
+2022,Malaysia,Export,Wallis and Futuna Isds,54699.35
+2022,Malaysia,Export,Samoa,12104560.74
+2022,Malaysia,Export,Yemen,151377892.20
+2022,Malaysia,Export,Zambia,5935808.30
+2022,Malaysia,Export,"Areas, nes",39293385.98
+2022,Malaysia,Export,Armenia,1899583.01
+2022,Malaysia,Export,Barbados,3328702.47
+2022,Malaysia,Export,Belgium,2044445507.00
+2022,Malaysia,Export,Bermuda,754249.80
+2022,Malaysia,Export,Bolivia (Plurinational State of),21681891.57
+2022,Malaysia,Export,Bosnia Herzegovina,704280.88
+2022,Malaysia,Export,Botswana,4127069.66
+2022,Malaysia,Export,Brazil,1059420704.00
+2022,Malaysia,Export,Belize,2261698.28
+2022,Malaysia,Export,Solomon Isds,61776034.37
+2022,Malaysia,Export,Br. Virgin Isds,332762.91
+2022,Malaysia,Export,Brunei Darussalam,1737936489.00
+2022,Malaysia,Export,Bulgaria,104414431.30
+2022,Malaysia,Export,Myanmar,1355740377.00
+2022,Malaysia,Export,Belarus,5012909.30
+2022,Malaysia,Export,Cambodia,525151067.30
+2022,Malaysia,Export,Iran,783133589.10
+2022,Malaysia,Export,Iraq,783306847.00
+2022,Malaysia,Export,Ireland,216289001.70
+2022,Malaysia,Export,Italy,1914143714.00
+2022,Malaysia,Export,Côte d'Ivoire,139058244.60
+2022,Malaysia,Export,Jamaica,21138106.42
+2022,Malaysia,Export,Japan,22416749635.00
+2022,Malaysia,Export,Kazakhstan,128936368.80
+2022,Malaysia,Export,Jordan,178209375.60
+2022,Malaysia,Export,Kenya,1153365275.00
+2022,Malaysia,Export,Rep. of Korea,12475676294.00
+2022,Malaysia,Export,Kuwait,199468108.20
+2022,Malaysia,Export,Kyrgyzstan,8773769.92
+2022,Malaysia,Export,Lao People's Dem. Rep.,215055707.90
+2022,Malaysia,Export,Lebanon,56054680.66
+2022,Malaysia,Export,Latvia,47182201.94
+2022,Malaysia,Export,Liberia,22680522.94
+2022,Malaysia,Export,Poland,857780567.00
+2022,Malaysia,Export,Portugal,112980413.70
+2022,Malaysia,Export,Timor-Leste,68699654.64
+2022,Malaysia,Export,Qatar,334208819.50
+2022,Malaysia,Export,Romania,229511613.90
+2022,Malaysia,Export,Russian Federation,547284799.70
+2022,Malaysia,Export,Rwanda,1104155.56
+2022,Malaysia,Export,Saint Helena,398926.95
+2022,Malaysia,Export,Saint Kitts and Nevis,308810.59
+2022,Malaysia,Export,Anguilla,50824.61
+2022,Malaysia,Export,Saint Lucia,497996.81
+2022,Malaysia,Export,Saint Vincent and the Grenadines,434589.14
+2022,Malaysia,Export,Saudi Arabia,1626974319.00
+2022,Malaysia,Export,Senegal,203958049.70
+2022,Malaysia,Export,Serbia,8336625.04
+2022,Malaysia,Export,Seychelles,8883475.80
+2022,Malaysia,Export,Sierra Leone,12071708.55
+2022,Malaysia,Export,India,12442889567.00
+2022,Malaysia,Export,Singapore,52824251487.00
+2022,Malaysia,Export,Slovakia,168714285.50
+2022,Malaysia,Export,Viet Nam,12184086591.00
+2022,Malaysia,Export,Afghanistan,357619011.20
+2022,Malaysia,Export,Albania,3104790.21
+2022,Malaysia,Export,Algeria,121771161.50
+2022,Malaysia,Export,American Samoa,62485047.28
+2022,Malaysia,Export,Andorra,375021.44
+2022,Malaysia,Export,Angola,260439237.40
+2022,Malaysia,Export,Antigua and Barbuda,1091430.94
+2022,Malaysia,Export,Azerbaijan,9387235.06
+2022,Malaysia,Export,Argentina,156126226.00
+2022,Malaysia,Export,Australia,10927047844.00
+2022,Malaysia,Export,Austria,195493098.40
+2022,Malaysia,Export,Bahamas,781882.81
+2022,Malaysia,Export,Bahrain,56397360.92
+2022,Malaysia,Export,Bangladesh,4149670885.00
+2022,Malaysia,Export,Cameroon,164828935.80
+2022,Malaysia,Export,Canada,1109313793.00
+2022,Malaysia,Export,Cabo Verde,2068889.31
+2022,Malaysia,Export,Cayman Isds,495393.35
+2022,Malaysia,Export,Central African Rep.,746681.87
+2022,Malaysia,Export,Sri Lanka,783801039.30
+2022,Malaysia,Export,Chad,297556.07
+2022,Malaysia,Export,Chile,205873138.30
+2022,Malaysia,Export,China,47843004759.00
+2022,Malaysia,Export,Christmas Isds,1026575.90
+2022,Malaysia,Export,Colombia,146042630.90
+2022,Malaysia,Export,Congo,64949993.57
+2022,Malaysia,Export,Dem. Rep. of the Congo,34235430.20
+2022,Malaysia,Export,Cook Isds,255136.90
+2022,Malaysia,Export,Costa Rica,836873725.60
+2022,Malaysia,Export,Croatia,43153352.34
+2022,Malaysia,Export,Cuba,6311385.05
+2022,Malaysia,Export,Cyprus,9370432.58
+2022,Malaysia,Export,Czechia,818174406.40
+2022,Malaysia,Export,Benin,155728355.20
+2022,Malaysia,Export,Denmark,253593010.70
+2022,Malaysia,Export,Dominica,764748.82
+2022,Malaysia,Export,Dominican Rep.,47637279.02
+2022,Malaysia,Export,Ecuador,40671665.38
+2022,Malaysia,Export,El Salvador,19230799.62
+2022,Malaysia,Export,Equatorial Guinea,13618666.69
+2022,Malaysia,Export,Ethiopia,66210634.25
+2022,Malaysia,Export,Eritrea,5811162.65
+2022,Malaysia,Export,Estonia,67949439.09
+2022,Malaysia,Export,Faeroe Isds,78113.16
+2022,Malaysia,Export,Fiji,218532274.20
+2022,Malaysia,Export,Finland,230556173.40
+2022,Malaysia,Export,France,2570567901.00
+2022,Malaysia,Export,French Polynesia,56221938.83
+2022,Malaysia,Export,Djibouti,374190857.70
+2022,Malaysia,Export,Gabon,23687355.49
+2022,Malaysia,Export,Georgia,30954957.97
+2022,Malaysia,Export,Gambia,25951378.43
+2022,Malaysia,Export,State of Palestine,1560265.79
+2022,Malaysia,Export,Germany,6823370559.00
+2022,Malaysia,Export,Ghana,350758974.70
+2022,Malaysia,Export,Gibraltar,308475.90
+2022,Malaysia,Export,Kiribati,2580839.75
+2022,Malaysia,Export,Greece,129793239.40
+2022,Malaysia,Export,Grenada,859964.84
+2022,Malaysia,Export,Guam,23891590.52
+2022,Malaysia,Export,Guatemala,62232969.63
+2022,Malaysia,Export,Guinea,48745031.65
+2022,Malaysia,Export,Guyana,9486649.60
+2022,Malaysia,Export,Haiti,6424559.64
+2022,Malaysia,Export,Honduras,24239362.94
+2022,Malaysia,Export,"China, Hong Kong SAR",21737858534.00
+2022,Malaysia,Export,Hungary,566753857.80
+2022,Malaysia,Export,Iceland,142604061.40
+2022,Malaysia,Export,Aruba,149422.99
+2022,Malaysia,Export,Zimbabwe,1801437.93
+2022,Malaysia,Export,Thailand,14943379970.00
+2022,Malaysia,Export,Bhutan,1958665.60
+2022,Malaysia,Export,Indonesia,12664226165.00
+2022,Malaysia,Export,World,352000000000.00
+2023,Malaysia,Export,Bonaire,69.73
+2023,Malaysia,Export,Fr. South Antarctic Terr.,1548.69
+2023,Malaysia,Export,United States Minor Outlying Islands,12987.04
+2023,Malaysia,Export,San Marino,29436.33
+2023,Malaysia,Export,Br. Indian Ocean Terr.,117406.97
+2023,Malaysia,Export,Cocos Isds,29.16
+2023,Malaysia,Export,Eritrea,3767246.88
+2023,Malaysia,Export,Falkland Isds (Malvinas),170.81
+2023,Malaysia,Export,Greenland,576183.92
+2023,Malaysia,Export,Grenada,816565.31
+2023,Malaysia,Export,Guam,52119107.64
+2023,Malaysia,Export,Pitcairn,6429.60
+2023,Malaysia,Export,Poland,703292564.00
+2023,Malaysia,Export,Zambia,6582892.53
+2023,Malaysia,Export,Venezuela,8802728.44
+2023,Malaysia,Export,Aruba,178334.17
+2023,Malaysia,Export,Sint Maarten,48556.52
+2023,Malaysia,Export,New Caledonia,87477260.46
+2023,Malaysia,Export,Bangladesh,2456836827.00
+2023,Malaysia,Export,Afghanistan,336699781.40
+2023,Malaysia,Export,Albania,17355652.44
+2023,Malaysia,Export,Algeria,94677353.24
+2023,Malaysia,Export,Finland,251415813.90
+2023,Malaysia,Export,France,1472016624.00
+2023,Malaysia,Export,French Polynesia,55119881.70
+2023,Malaysia,Export,Djibouti,349012236.00
+2023,Malaysia,Export,Gabon,27044238.68
+2023,Malaysia,Export,Georgia,38285281.04
+2023,Malaysia,Export,Gambia,37722753.36
+2023,Malaysia,Export,State of Palestine,2953523.73
+2023,Malaysia,Export,Germany,6701374981.00
+2023,Malaysia,Export,Ghana,229754039.40
+2023,Malaysia,Export,Gibraltar,373649.78
+2023,Malaysia,Export,Kiribati,3127351.93
+2023,Malaysia,Export,Greece,140388821.40
+2023,Malaysia,Export,Guatemala,52491890.21
+2023,Malaysia,Export,Guinea,26019214.16
+2023,Malaysia,Export,Guyana,11085322.86
+2023,Malaysia,Export,Haiti,6552688.33
+2023,Malaysia,Export,Honduras,29957984.95
+2023,Malaysia,Export,"China, Hong Kong SAR",19698224011.00
+2023,Malaysia,Export,Hungary,522032707.80
+2023,Malaysia,Export,Iceland,22545406.10
+2023,Malaysia,Export,Niue,4773.91
+2023,Malaysia,Export,Norfolk Isds,1701744.26
+2023,Malaysia,Export,Norway,155905314.30
+2023,Malaysia,Export,N. Mariana Isds,431055.75
+2023,Malaysia,Export,FS Micronesia,984968.81
+2023,Malaysia,Export,Marshall Isds,14230943.57
+2023,Malaysia,Export,Palau,334644.37
+2023,Malaysia,Export,Pakistan,961437752.90
+2023,Malaysia,Export,Panama,64717794.82
+2023,Malaysia,Export,Papua New Guinea,492909171.90
+2023,Malaysia,Export,Paraguay,24287650.96
+2023,Malaysia,Export,Peru,142698100.50
+2023,Malaysia,Export,Philippines,5798651241.00
+2023,Malaysia,Export,Portugal,115571069.40
+2023,Malaysia,Export,Guinea-Bissau,2223443.31
+2023,Malaysia,Export,Timor-Leste,42778132.63
+2023,Malaysia,Export,Qatar,318275891.00
+2023,Malaysia,Export,Romania,175799037.70
+2023,Malaysia,Export,Russian Federation,619686071.60
+2023,Malaysia,Export,Rwanda,1557711.76
+2023,Malaysia,Export,Saint Helena,382104.98
+2023,Malaysia,Export,Saint Kitts and Nevis,188339.38
+2023,Malaysia,Export,Anguilla,1402.88
+2023,Malaysia,Export,Saint Lucia,627628.86
+2023,Malaysia,Export,Saint Vincent and the Grenadines,6363518.37
+2023,Malaysia,Export,Sao Tome and Principe,1137037.49
+2023,Malaysia,Export,Saudi Arabia,1503690660.00
+2023,Malaysia,Export,Senegal,226514154.40
+2023,Malaysia,Export,Serbia,10164233.47
+2023,Malaysia,Export,Switzerland,796352927.80
+2023,Malaysia,Export,Syria,37864713.77
+2023,Malaysia,Export,Tajikistan,1790390.25
+2023,Malaysia,Export,Togo,294294138.40
+2023,Malaysia,Export,Tokelau,56263.14
+2023,Malaysia,Export,Tonga,4058203.80
+2023,Malaysia,Export,Trinidad and Tobago,57442703.52
+2023,Malaysia,Export,United Arab Emirates,3120539497.00
+2023,Malaysia,Export,Tunisia,122053608.10
+2023,Malaysia,Export,Türkiye,3844132644.00
+2023,Malaysia,Export,Turkmenistan,9946650.73
+2023,Malaysia,Export,Turks and Caicos Isds,309862.45
+2023,Malaysia,Export,Tuvalu,174971.69
+2023,Malaysia,Export,Uganda,8115420.45
+2023,Malaysia,Export,Ukraine,19235879.30
+2023,Malaysia,Export,North Macedonia,6666351.51
+2023,Malaysia,Export,Egypt,506671052.00
+2023,Malaysia,Export,United Kingdom,1925328176.00
+2023,Malaysia,Export,United Rep. of Tanzania,445747485.40
+2023,Malaysia,Export,USA,35455220163.00
+2023,Malaysia,Export,Burkina Faso,1787552.26
+2023,Malaysia,Export,Uruguay,33464170.82
+2023,Malaysia,Export,Uzbekistan,93034677.22
+2023,Malaysia,Export,Wallis and Futuna Isds,228633.87
+2023,Malaysia,Export,Samoa,4979762.42
+2023,Malaysia,Export,Yemen,243607048.50
+2023,Malaysia,Export,"Areas, nes",21893541.96
+2023,Malaysia,Export,Seychelles,12467967.77
+2023,Malaysia,Export,Sierra Leone,15988670.52
+2023,Malaysia,Export,India,9984902056.00
+2023,Malaysia,Export,Singapore,48092322740.00
+2023,Malaysia,Export,Slovakia,163629763.70
+2023,Malaysia,Export,Viet Nam,11404596587.00
+2023,Malaysia,Export,Slovenia,189158312.10
+2023,Malaysia,Export,Somalia,122071269.30
+2023,Malaysia,Export,South Africa,975607224.40
+2023,Malaysia,Export,Zimbabwe,4267878.85
+2023,Malaysia,Export,Spain,1239418828.00
+2023,Malaysia,Export,South Sudan,543809.84
+2023,Malaysia,Export,Sudan,51902362.72
+2023,Malaysia,Export,Suriname,5444721.65
+2023,Malaysia,Export,Sweden,315968166.90
+2023,Malaysia,Export,American Samoa,19878365.56
+2023,Malaysia,Export,Andorra,57251.82
+2023,Malaysia,Export,Angola,123031835.30
+2023,Malaysia,Export,Antigua and Barbuda,1682785.01
+2023,Malaysia,Export,Azerbaijan,26175931.33
+2023,Malaysia,Export,Argentina,157866072.50
+2023,Malaysia,Export,Australia,10941691069.00
+2023,Malaysia,Export,Austria,235906200.70
+2023,Malaysia,Export,Bahamas,833090.46
+2023,Malaysia,Export,Bahrain,46913251.13
+2023,Malaysia,Export,Armenia,3067161.26
+2023,Malaysia,Export,Barbados,3415119.60
+2023,Malaysia,Export,Belgium,2048333568.00
+2023,Malaysia,Export,Bermuda,465352.37
+2023,Malaysia,Export,Bhutan,1984908.82
+2023,Malaysia,Export,Bolivia (Plurinational State of),22168897.06
+2023,Malaysia,Export,Bosnia Herzegovina,701560.86
+2023,Malaysia,Export,Botswana,2211065.39
+2023,Malaysia,Export,Brazil,1095884095.00
+2023,Malaysia,Export,Belize,2861509.34
+2023,Malaysia,Export,Solomon Isds,25513932.82
+2023,Malaysia,Export,Br. Virgin Isds,335161.40
+2023,Malaysia,Export,Brunei Darussalam,1403799329.00
+2023,Malaysia,Export,Bulgaria,104814590.80
+2023,Malaysia,Export,Myanmar,877942926.70
+2023,Malaysia,Export,Burundi,16386.79
+2023,Malaysia,Export,Belarus,112411079.20
+2023,Malaysia,Export,Cambodia,514868619.50
+2023,Malaysia,Export,Cameroon,87412271.10
+2023,Malaysia,Export,Canada,915283759.70
+2023,Malaysia,Export,Cabo Verde,2431199.32
+2023,Malaysia,Export,Cayman Isds,446699.44
+2023,Malaysia,Export,Central African Rep.,1183907.62
+2023,Malaysia,Export,Sri Lanka,726982823.40
+2023,Malaysia,Export,Chad,885305.69
+2023,Malaysia,Export,Chile,133741279.50
+2023,Malaysia,Export,China,42145127267.00
+2023,Malaysia,Export,Christmas Isds,1018483.09
+2023,Malaysia,Export,Colombia,116888776.50
+2023,Malaysia,Export,Comoros,6327499.61
+2023,Malaysia,Export,Congo,58067800.28
+2023,Malaysia,Export,Dem. Rep. of the Congo,24699877.70
+2023,Malaysia,Export,Cook Isds,465976.41
+2023,Malaysia,Export,Costa Rica,638977985.30
+2023,Malaysia,Export,Croatia,38445328.89
+2023,Malaysia,Export,Cuba,6618340.76
+2023,Malaysia,Export,Cyprus,8195789.73
+2023,Malaysia,Export,Czechia,577891018.10
+2023,Malaysia,Export,Benin,158588736.20
+2023,Malaysia,Export,Denmark,194213856.90
+2023,Malaysia,Export,Dominica,1123915.16
+2023,Malaysia,Export,Dominican Rep.,40022295.47
+2023,Malaysia,Export,Ecuador,64031933.79
+2023,Malaysia,Export,El Salvador,13850008.82
+2023,Malaysia,Export,Equatorial Guinea,11633836.01
+2023,Malaysia,Export,Ethiopia,81298676.89
+2023,Malaysia,Export,Estonia,83654987.55
+2023,Malaysia,Export,Faeroe Isds,80469.04
+2023,Malaysia,Export,Fiji,209793943.10
+2023,Malaysia,Export,Iran,411284986.20
+2023,Malaysia,Export,Iraq,426027404.30
+2023,Malaysia,Export,Ireland,206828728.90
+2023,Malaysia,Export,Italy,1376447328.00
+2023,Malaysia,Export,Côte d'Ivoire,115612340.50
+2023,Malaysia,Export,Jamaica,14643277.53
+2023,Malaysia,Export,Japan,18791083935.00
+2023,Malaysia,Export,Kazakhstan,102088960.50
+2023,Malaysia,Export,Jordan,149376665.70
+2023,Malaysia,Export,Kenya,1184250394.00
+2023,Malaysia,Export,Rep. of Korea,12251988522.00
+2023,Malaysia,Export,Kuwait,191071820.60
+2023,Malaysia,Export,Kyrgyzstan,35323635.83
+2023,Malaysia,Export,Lao People's Dem. Rep.,29626455.95
+2023,Malaysia,Export,Lebanon,58186946.92
+2023,Malaysia,Export,Lesotho,174709.22
+2023,Malaysia,Export,Latvia,35997991.42
+2023,Malaysia,Export,Liberia,35487675.46
+2023,Malaysia,Export,Libya,21381158.08
+2023,Malaysia,Export,Lithuania,20899557.93
+2023,Malaysia,Export,Luxembourg,28851560.38
+2023,Malaysia,Export,"China, Macao SAR",30996342.95
+2023,Malaysia,Export,Madagascar,113542577.50
+2023,Malaysia,Export,Malawi,2046192.77
+2023,Malaysia,Export,Maldives,176546483.50
+2023,Malaysia,Export,Mali,2513434.13
+2023,Malaysia,Export,Malta,69613625.52
+2023,Malaysia,Export,Mauritania,112211405.20
+2023,Malaysia,Export,Mauritius,103059936.10
+2023,Malaysia,Export,Mexico,4103917218.00
+2023,Malaysia,Export,"Other Asia, nes",9492811102.00
+2023,Malaysia,Export,Mongolia,33539612.04
+2023,Malaysia,Export,Rep. of Moldova,725737.60
+2023,Malaysia,Export,Montenegro,1115154.52
+2023,Malaysia,Export,Morocco,136876044.10
+2023,Malaysia,Export,Mozambique,355162445.10
+2023,Malaysia,Export,Oman,318114321.20
+2023,Malaysia,Export,Namibia,47221490.34
+2023,Malaysia,Export,Nauru,797686.75
+2023,Malaysia,Export,Nepal,54807710.58
+2023,Malaysia,Export,Netherlands,7861578214.00
+2023,Malaysia,Export,Vanuatu,27223230.87
+2023,Malaysia,Export,New Zealand,1619167563.00
+2023,Malaysia,Export,Nicaragua,4065036.42
+2023,Malaysia,Export,Niger,6665220.75
+2023,Malaysia,Export,Nigeria,519656971.30
+2023,Malaysia,Export,Curaçao,830143.05
+2023,Malaysia,Export,Heard Island and McDonald Islands,35496.46
+2023,Malaysia,Export,Holy See (Vatican City State),60136.73
+2023,Malaysia,Export,Indonesia,11162555980.00
+2023,Malaysia,Export,Thailand,12873639855.00
+2023,Malaysia,Export,World,313000000000.00
