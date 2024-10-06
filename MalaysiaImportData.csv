@@ -6,7 +6,7 @@ Year,Origin,flowDesc,ImportCountry,ImportValue
 2020,Malaysia,Import,Lithuania,99501439.43
 2020,Malaysia,Import,Dominican Rep.,8895803.178
 2020,Malaysia,Import,Sudan,1221297.914
-2020,Malaysia,Import,Türkiye,476681439.7
+2020,Malaysia,Import,TÃ¼rkiye,476681439.7
 2020,Malaysia,Import,French Polynesia,86251.585
 2020,Malaysia,Import,Iran,51307594.41
 2020,Malaysia,Import,Congo,65645950.24
@@ -76,7 +76,7 @@ Year,Origin,flowDesc,ImportCountry,ImportValue
 2020,Malaysia,Import,Iceland,383995.444
 2020,Malaysia,Import,Qatar,233992132.8
 2020,Malaysia,Import,Malta,117461128.3
-2020,Malaysia,Import,Côte d'Ivoire,788837229.3
+2020,Malaysia,Import,CÃ´te d'Ivoire,788837229.3
 2020,Malaysia,Import,Fiji,2683286.513
 2020,Malaysia,Import,Antarctica,250.269
 2020,Malaysia,Import,Ecuador,151433515.6
@@ -123,7 +123,7 @@ Year,Origin,flowDesc,ImportCountry,ImportValue
 2020,Malaysia,Import,Netherlands,1038442001
 2020,Malaysia,Import,Costa Rica,54031557.2
 2020,Malaysia,Import,Timor-Leste,243818.33
-2020,Malaysia,Import,Curaçao,10407.562
+2020,Malaysia,Import,CuraÃ§ao,10407.562
 2020,Malaysia,Import,Faeroe Isds,1321.285
 2020,Malaysia,Import,Togo,22935044.38
 2020,Malaysia,Import,Panama,998989.608
@@ -198,7 +198,6 @@ Year,Origin,flowDesc,ImportCountry,ImportValue
 2020,Malaysia,Import,Nigeria,205055173.6
 2020,Malaysia,Import,Lao People's Dem. Rep.,11321764.47
 2020,Malaysia,Import,Senegal,1446893.733
-2020,Malaysia,Import,World,1.90405E+11
 2020,Malaysia,Import,San Marino,2640.906
 2020,Malaysia,Import,Thailand,8159921360
 2020,Malaysia,Import,Paraguay,2805152.142
@@ -315,7 +314,7 @@ Year,Origin,flowDesc,ImportCountry,ImportValue
 2021,Malaysia,Import,South Africa,470016204.6
 2021,Malaysia,Import,North Macedonia,419544.567
 2021,Malaysia,Import,Rep. of Moldova,4480373.55
-2021,Malaysia,Import,Curaçao,96028.825
+2021,Malaysia,Import,CuraÃ§ao,96028.825
 2021,Malaysia,Import,Romania,65354370.56
 2021,Malaysia,Import,Christmas Isds,3076685.581
 2021,Malaysia,Import,"China, Hong Kong SAR",4254236611
@@ -339,7 +338,7 @@ Year,Origin,flowDesc,ImportCountry,ImportValue
 2021,Malaysia,Import,Ethiopia,9939907.998
 2021,Malaysia,Import,India,5920421404
 2021,Malaysia,Import,Uruguay,10360442.84
-2021,Malaysia,Import,Côte d'Ivoire,883893329.2
+2021,Malaysia,Import,CÃ´te d'Ivoire,883893329.2
 2021,Malaysia,Import,Ecuador,192648262.1
 2021,Malaysia,Import,Pakistan,458443696.3
 2021,Malaysia,Import,American Samoa,82658.074
@@ -364,7 +363,7 @@ Year,Origin,flowDesc,ImportCountry,ImportValue
 2021,Malaysia,Import,Ghana,465525101
 2021,Malaysia,Import,Peru,104650004.7
 2021,Malaysia,Import,Timor-Leste,26391480.03
-2021,Malaysia,Import,Türkiye,686633117.9
+2021,Malaysia,Import,TÃ¼rkiye,686633117.9
 2021,Malaysia,Import,Syria,703577.507
 2021,Malaysia,Import,Cyprus,7848234.691
 2021,Malaysia,Import,Libya,30330271.44
@@ -409,15 +408,13 @@ Year,Origin,flowDesc,ImportCountry,ImportValue
 2021,Malaysia,Import,Eritrea,5226.755
 2021,Malaysia,Import,Cocos Isds,1566865.724
 2021,Malaysia,Import,Senegal,1326610.957
-2021,Malaysia,Import,World,2.3825E+11
 2021,Malaysia,Import,Lao People's Dem. Rep.,21536630.36
 2021,Malaysia,Import,Thailand,10999681262
 2022,Malaysia,Import,Andorra,2074.947
-2022,Malaysia,Import,Curaçao,50583.307
+2022,Malaysia,Import,CuraÃ§ao,50583.307
 2022,Malaysia,Import,Saint Vincent and the Grenadines,31694990.79
 2022,Malaysia,Import,Dominica,15468.488
 2022,Malaysia,Import,Thailand,12764359546
-2022,Malaysia,Import,World,2.93941E+11
 2022,Malaysia,Import,Afghanistan,461566.172
 2022,Malaysia,Import,Albania,489394.136
 2022,Malaysia,Import,Algeria,275494486.3
@@ -532,7 +529,7 @@ Year,Origin,flowDesc,ImportCountry,ImportValue
 2022,Malaysia,Import,Trinidad and Tobago,2263786.86
 2022,Malaysia,Import,United Arab Emirates,5032360412
 2022,Malaysia,Import,Tunisia,40497772.7
-2022,Malaysia,Import,Türkiye,649547189.1
+2022,Malaysia,Import,TÃ¼rkiye,649547189.1
 2022,Malaysia,Import,Turkmenistan,129359.262
 2022,Malaysia,Import,Ukraine,111535568.5
 2022,Malaysia,Import,North Macedonia,689584.025
@@ -569,7 +566,7 @@ Year,Origin,flowDesc,ImportCountry,ImportValue
 2022,Malaysia,Import,Iraq,279381323.1
 2022,Malaysia,Import,Ireland,2975585425
 2022,Malaysia,Import,Italy,2256598772
-2022,Malaysia,Import,Côte d'Ivoire,823167090.2
+2022,Malaysia,Import,CÃ´te d'Ivoire,823167090.2
 2022,Malaysia,Import,Jamaica,1358710.327
 2022,Malaysia,Import,Japan,18876310303
 2022,Malaysia,Import,Antarctica,60930.321
@@ -625,7 +622,6 @@ Year,Origin,flowDesc,ImportCountry,ImportValue
 2022,Malaysia,Import,Holy See (Vatican City State),244052.34
 2023,Malaysia,Import,Montenegro,28110306.93
 2023,Malaysia,Import,Thailand,11940675899
-2023,Malaysia,Import,World,2.65638E+11
 2023,Malaysia,Import,Venezuela,39228742.8
 2023,Malaysia,Import,Yemen,53098935.27
 2023,Malaysia,Import,Zambia,8984031.713
@@ -658,7 +654,7 @@ Year,Origin,flowDesc,ImportCountry,ImportValue
 2023,Malaysia,Import,Indonesia,13222041072
 2023,Malaysia,Import,Iran,46764353.08
 2023,Malaysia,Import,Italy,1762676365
-2023,Malaysia,Import,Côte d'Ivoire,881030414.4
+2023,Malaysia,Import,CÃ´te d'Ivoire,881030414.4
 2023,Malaysia,Import,Jamaica,2384045.246
 2023,Malaysia,Import,Japan,15555690350
 2023,Malaysia,Import,Kazakhstan,1948905.63
@@ -725,7 +721,7 @@ Year,Origin,flowDesc,ImportCountry,ImportValue
 2023,Malaysia,Import,Cuba,9585403.64
 2023,Malaysia,Import,Cyprus,10580960.04
 2023,Malaysia,Import,Czechia,235578143.8
-2023,Malaysia,Import,Curaçao,1014308.878
+2023,Malaysia,Import,CuraÃ§ao,1014308.878
 2023,Malaysia,Import,Bonaire,584.788
 2023,Malaysia,Import,New Caledonia,168865.065
 2023,Malaysia,Import,New Zealand,913915277.8
@@ -801,7 +797,7 @@ Year,Origin,flowDesc,ImportCountry,ImportValue
 2023,Malaysia,Import,Trinidad and Tobago,2987712.474
 2023,Malaysia,Import,United Arab Emirates,5567639584
 2023,Malaysia,Import,Tunisia,94858159.65
-2023,Malaysia,Import,Türkiye,614577112.8
+2023,Malaysia,Import,TÃ¼rkiye,614577112.8
 2023,Malaysia,Import,Turkmenistan,714173.826
 2023,Malaysia,Import,Uganda,34270097.67
 2023,Malaysia,Import,Ukraine,81262750.88
