@@ -28,7 +28,6 @@ Year,Origin,flowDesc,ImportCountry,ImportValue
 2020,Malaysia,Import,Iraq,301818434.2
 2020,Malaysia,Import,Andorra,2131.09
 2020,Malaysia,Import,Norway,200033738
-2020,Malaysia,Import,"Other Asia, nes",13805978442
 2020,Malaysia,Import,Poland,200749136.8
 2020,Malaysia,Import,Cyprus,10518124.8
 2020,Malaysia,Import,Cambodia,113739566.9
@@ -173,7 +172,7 @@ Year,Origin,flowDesc,ImportCountry,ImportValue
 2020,Malaysia,Import,Singapore,17526413170
 2020,Malaysia,Import,Uzbekistan,8449568.622
 2020,Malaysia,Import,Uganda,23143301.24
-2020,Malaysia,Import,Rep. of Korea,10952549818
+2020,Malaysia,Import,South Korea,10952549818
 2020,Malaysia,Import,Canada,723159185.4
 2020,Malaysia,Import,Mongolia,97080.702
 2020,Malaysia,Import,Slovakia,20592753.49
@@ -228,7 +227,7 @@ Year,Origin,flowDesc,ImportCountry,ImportValue
 2021,Malaysia,Import,Nigeria,364939600.8
 2021,Malaysia,Import,Congo,131309331.8
 2021,Malaysia,Import,Dominican Rep.,15183158.92
-2021,Malaysia,Import,Rep. of Korea,12073745894
+2021,Malaysia,Import,South Korea,12073745894
 2021,Malaysia,Import,Belarus,51179103.03
 2021,Malaysia,Import,Honduras,2217076.077
 2021,Malaysia,Import,Jordan,80816494.23
@@ -299,7 +298,6 @@ Year,Origin,flowDesc,ImportCountry,ImportValue
 2021,Malaysia,Import,Cambodia,109529141.1
 2021,Malaysia,Import,Nepal,533042.328
 2021,Malaysia,Import,FS Micronesia,8190.336
-2021,Malaysia,Import,"Other Asia, nes",18150480159
 2021,Malaysia,Import,Kyrgyzstan,105656.181
 2021,Malaysia,Import,Nicaragua,2590295.707
 2021,Malaysia,Import,Bulgaria,29653238.97
@@ -484,7 +482,7 @@ Year,Origin,flowDesc,ImportCountry,ImportValue
 2022,Malaysia,Import,Fiji,1752605.1
 2022,Malaysia,Import,Finland,277260354.3
 2022,Malaysia,Import,Kenya,23372347.78
-2022,Malaysia,Import,Rep. of Korea,13429188605
+2022,Malaysia,Import,South Korea,13429188605
 2022,Malaysia,Import,France,2196157805
 2022,Malaysia,Import,Kazakhstan,1232452.806
 2022,Malaysia,Import,Jordan,167653356.2
@@ -508,7 +506,6 @@ Year,Origin,flowDesc,ImportCountry,ImportValue
 2022,Malaysia,Import,"China, Macao SAR",56169301.71
 2022,Malaysia,Import,Malta,148999628.6
 2022,Malaysia,Import,Mauritius,978606.045
-2022,Malaysia,Import,"Other Asia, nes",24085747082
 2022,Malaysia,Import,Mongolia,1188352.913
 2022,Malaysia,Import,Rep. of Moldova,356914.501
 2022,Malaysia,Import,Mozambique,45278187.06
@@ -660,7 +657,7 @@ Year,Origin,flowDesc,ImportCountry,ImportValue
 2023,Malaysia,Import,Kazakhstan,1948905.63
 2023,Malaysia,Import,Jordan,112415125.3
 2023,Malaysia,Import,Kenya,22902036.06
-2023,Malaysia,Import,Rep. of Korea,12095702026
+2023,Malaysia,Import,South Korea,12095702026
 2023,Malaysia,Import,Kuwait,618024887.6
 2023,Malaysia,Import,Kyrgyzstan,266765.712
 2023,Malaysia,Import,Lao People's Dem. Rep.,16545742.36
@@ -679,7 +676,6 @@ Year,Origin,flowDesc,ImportCountry,ImportValue
 2023,Malaysia,Import,Mauritania,248673.449
 2023,Malaysia,Import,Mauritius,1624830.212
 2023,Malaysia,Import,Mexico,671720279
-2023,Malaysia,Import,"Other Asia, nes",18373733451
 2023,Malaysia,Import,Mongolia,428311.602
 2023,Malaysia,Import,Rep. of Moldova,2419471.542
 2023,Malaysia,Import,Morocco,42711275.99
