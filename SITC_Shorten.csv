@@ -1,11 +1,11 @@
-SITC_Code, SITC_Desc
-0, Food & Live
-1, Beverages
-2, Inedible Materials
-3, Fuels & Lubricants
-4, Oils & Waxes
-5, Chemicals
-6, Manufactured
-7, Machinery
-8, Misc. Articles
-9, Others
+SITC_Code,SITC_Desc
+0,Food & Live
+1,Beverages
+2,Inedible Materials
+3,Fuels & Lubricants
+4,Oils & Waxes
+5,Chemicals
+6,Manufactured
+7,Machinery
+8,Misc. Articles
+9,Others
