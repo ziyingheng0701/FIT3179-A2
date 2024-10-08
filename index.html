@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Global Trade Patterns of Malaysia</title>
+</head>
+<body>
+    <!-- Header Section -->
+    <div class="header_card">
+        <img src="header.png" width="800" height="100" style="display: block; margin-left: auto; margin-right: auto;">
+    </div>
+
+    <!-- Map and Buttons Section -->
+    <section class="card">
+        <h2 class="chart-title">TRADE ROUTES OF MALAYSIA</h2> <!-- Title for the map -->
+       
+        <div class="map_container">
+            <div id="map"></div>
+        </div>
+
+        <div class="switch-container">
+            <input type="checkbox" id="switch" class="checkbox">
+            <label for="switch" class="toggle">
+                <span class="switch-label export">Export</span>
+                <span class="switch-label import">Import</span>
+            </label>
+        </label>
+        </div>       
+        <!-- <div class="button-container">
+            <button id="exportBtn" class="button-export">Export</button>
+            <button id="importBtn" class="button-import">Import</button>
+        </div> -->      
+        
+
+        <div class="description">
+            <p>This map shows the global trade routes of Malaysia, highlighting major export and import destinations. Click the switch above to toggle between viewing export and import data.</p>
+        </div>
+    </section>
+
+    <!-- Bar Chart Section -->
+    <section class="card">
+        <h2 class="chart-title">TRADE VALUE BY SITC SECTION</h2> <!-- Title for the bar chart -->
+        <div class="flex-container">
+            <div class="description left">
+                <p>This bar chart compares Malaysia’s trade value across different sectors over the past few years. It provides insights into the sectors that drive the country's trade activity.</p>
+            </div>
+            
+            <div class="bar_chart_container">
+                <div id="barchart"></div>
+                <script>
+                    var vg_2 = "json/bar_chart.json";
+                    vegaEmbed("#barchart", vg_2).then(function(result) {
+                    }).catch(console.error);
+                </script>
+            </div>
+        </div>
+    </section>
+
+    <!-- Balance Chart Section -->
+    <section class="card">
+        <h2 class="chart-title">TRADE BALANCE: EXPORTS VS IMPORTS </h2> 
+        <div class="flex-container">
+            <div class="balance_chart_container">
+                <div id="balancechart"></div>
+                <script>
+                    var vg_3 = "json/balance_chart.json";
+                    vegaEmbed("#balancechart", vg_3).then(function(result) {
+                    }).catch(console.error);
+                </script>
+                <div class="notes"> <!-- Use a div for notes -->
+                    Note: for comparative purposes, <span style="color: #74b3d2;">import</span> values have been displayed as negative values so that they can be displayed along <span style="color: #d68f2a;">exports</span> on the same axis. UN Comtrade databases do not show <span style="color: #74b3d2;">import</span> values as negative.
+                </div>
+            </div>
+            
+            <div class="description right">
+                <p>This chart visualizes the trade balance between Malaysia's exports and imports. It provides a clear view of whether the country is experiencing a trade surplus or deficit during the selected periods.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Script for dynamic map loading -->
+    <!-- <script>
+        // Function to update the map visualization based on user selection
+        function updateMap(mapFile) {
+            vegaEmbed("#map", mapFile).then(function(result) {
+            }).catch(console.error);
+        }
+
+        // Event listeners for the buttons
+        document.getElementById("exportBtn").addEventListener("click", function() {
+            updateMap("map_export.json"); // Show export data
+        });
+
+        document.getElementById("importBtn").addEventListener("click", function() {
+            updateMap("map_import.json"); // Show import data
+        });
+
+        // Initialize with default (export data or none)
+        updateMap("map_export.json"); // You can set this to whichever you'd like as default
+    </script> -->
+
+    <script>
+        // Function to update the map visualization based on user selection
+        function updateMap(mapFile) {
+            vegaEmbed("#map", mapFile).then(function(result) {
+            }).catch(console.error);
+        }
+    
+        // Get the toggle switch (checkbox)
+        const toggleSwitch = document.getElementById('switch');
+    
+        // Event listener for the toggle switch
+        toggleSwitch.addEventListener('change', function() {
+            if (toggleSwitch.checked) {
+                // Switch is ON (showing export data)
+                updateMap("json/map_export.json");
+            } else {
+                // Switch is OFF (showing import data)
+                updateMap("json/map_import.json");
+            }
+        });
+    
+        // Initialize with default (export data or none)
+        updateMap("map_export.json"); // Set the default state
+    </script>
+    
+</body>
+</html>
