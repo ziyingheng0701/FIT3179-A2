@@ -1,0 +1,250 @@
+/* Global styles */
+body {
+	font-family: monospace, sans-serif;
+	margin: 0;
+	padding: 0;
+	max-width: 1000px; /* Set a maximum width for the entire content */
+	margin: 0 auto; /* Center the content horizontally */
+  }
+  
+  .header_card {
+	background-color: #083d57;
+	color: white;
+	border-radius: 15px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	padding: 20px;
+	margin-bottom: 20px;
+	width: 100%;
+  }
+  .card {
+	background-color: #fffefb;
+	border-radius: 15px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	padding: 20px;
+	margin-bottom: 20px;
+	width: 100%;
+  }
+
+  .map_container {
+	width: 100%;
+	height: 480px;
+	align-items: center;
+	border-radius: 15px;
+	margin-bottom: 20px;
+	padding-left: 100px;
+  }
+
+  .bar_chart_container {
+	width: 100%;
+	height: 550px;
+	border-radius: 15px;
+	margin-bottom: 20px;
+	padding-left: 10px;
+  }
+  
+  .notes {
+	background-color: #fffefb;
+	border-radius: 15px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	padding: 20px;
+	margin: 20px 0 20px 0; /* Add margin on the top and bottom */
+	width: 80%;
+  }
+
+
+  .title {
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+	margin-bottom: 20px;
+	font-family: oswald, sans-serif;
+	text-align: center;
+  }
+
+	/* Container for buttons */
+	.button-container {
+		display: flex; /* Enable flexbox */
+		justify-content: center; /* Horizontally center the buttons */
+		align-items: center; /* Vertically align the buttons */
+		margin-bottom: 20px; /* Space below the buttons */
+	}
+
+	/* Button Styles */
+	button {
+		background-color: #083d57; /* Dark blue background */
+		color: white; /* White text */
+		padding: 10px 20px; /* Space around the text */
+		border: none; /* Remove default border */
+		border-radius: 5px; /* Rounded corners */
+		font-size: 16px; /* Font size */
+		font-family: "JetBrains Mono",monospace;
+		cursor: pointer; /* Change cursor to pointer on hover */
+		box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add shadow for depth */
+		transition: background-color 0.3s ease; /* Smooth background color transition */
+		margin: 0 10px; /* Add space between the buttons */
+	}
+
+	/* Button Hover Effect */
+	button:hover {
+		background-color: #0b5d78; /* Lighter blue on hover */
+		box-shadow: rgba(45, 35, 66, 0.4) 0 4px 8px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+		transform: translateY(-2px);
+	}
+
+	/* Specific styles for export and import buttons */
+	.button-export {
+		background-color: #f1962e; /* Orange background for export */
+	}
+
+	.button-import {
+		background-color: #74b3d2; /* Light blue background for import */
+	}
+
+	/* Override button hover effects for different colors */
+	.button-export:hover {
+		background-color: #d68f2a; /* Darker orange on hover */
+	}
+
+	.button-import:hover {
+		background-color: #5ca4b7; /* Darker blue on hover */
+	}
+
+	/* Disabled button styles */
+	button:disabled {
+	background-color: #f0f0f0; /* Grey background */
+	color: #aaa; /* Lighter text color */
+	cursor: not-allowed; /* Change cursor to indicate disabled */
+	}
+
+
+
+	.flex-container {
+		display: flex;
+		justify-content: space-between; /* Align children to the edges */
+		align-items: center; /* Vertically align the items */
+	}
+	
+	.left {
+		flex: 1; /* Allow the description to take up some space */
+		margin-right: 20px; /* Space between description and chart */
+		padding: 10px; /* Add padding to the description */
+	}
+	
+	.right {
+		flex: 1; /* Allow the description to take up some space */
+		margin-left: 20px; /* Space between chart and description */
+		padding: 10px; /* Add padding to the description */
+	}
+	
+	.bar_chart_container, .balance_chart_container {
+		flex: 2; /* Allow the chart to take up more space */
+	}
+
+	.chart-title {
+		font-size: 30px; /* Set font size for titles */
+		font-weight: bold; /* Make the titles bold */
+		color: #083d57; /* Title color */
+		text-align: center; /* Center the titles */
+		margin-bottom: 10px; /* Space below the title */
+		font-family: monospace;
+	}
+
+
+	 /* Styling the toggle switch container */
+	 .switch-container {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		margin-bottom: 20px;
+		padding-left: 400px;
+	}
+
+	/* Hide the checkbox */
+	.checkbox {
+		display: none;
+	}
+
+	/* Styling the toggle switch */
+	.toggle {
+		position: relative;
+		display: inline-flex;
+		width: 120px; /* Width of the toggle switch */
+		height: 40px; /* Height of the toggle switch */
+		background-color: #74b3d2; /* Default background for Import */
+		border-radius: 20px; 
+		cursor: pointer;
+		transition: background-color 0.3s, box-shadow 0.3s; /* Smooth transition for background and shadow */
+		box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Add a shadow for depth */
+	}
+
+	/* Style for the switch ball */
+	.toggle::after {
+		content: '';
+		position: absolute;
+		width: 38px; 
+		height: 38px; 
+		background-color: white; 
+		border-radius: 60%; 
+		left: 1px; 
+		top: 1px; /* Adjust to center */
+		transition: all 0.3s; 
+		box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2); /* Add shadow to switch ball */
+	}
+
+	/* Styling labels */
+	.switch-label {
+		position: absolute;
+		width: 50%; /* Each label takes half of the toggle */
+		text-align: center;
+		line-height: 40px; /* Center vertically in toggle */
+		color: white; /* Text color */
+		font-size: 14px; /* Adjust font size */
+		font-weight: bold; /* Make text bold */
+		transition: color 0.3s; /* Smooth color transition */
+		font-family: monospace;
+	}
+
+	/* Initial color for Export label */
+	.export {
+		left: 0;
+	}
+
+	/* Initial color for Import label */
+	.import {
+		right: 0;
+	}
+
+	/* Active state */
+	.checkbox:checked + .toggle {
+		background-color: #f1962e; /* Active color for Export */
+	}
+
+	/* Move the switch ball */
+	.checkbox:checked + .toggle::after {
+		left: 80px; /* Move switch ball to the right */
+	}
+
+	
+	/* Change color of the labels when checked */
+	.checkbox:checked + .toggle .export {
+		opacity: 1; /* Hide Export label */
+	}
+
+	.checkbox:checked + .toggle .import {
+		opacity: 0; /* Show Import label */
+	}
+
+	.checkbox:not(:checked) + .toggle .export {
+		opacity: 0; /* Hide Export label */
+	}
+
+
+
+
+
+
+
+
+
+
+  
