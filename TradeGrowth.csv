@@ -1,4 +1,4 @@
-month,year,trade_type,Value
+month,year,trade_type,trade_val
 1,2020,import,0
 1,2020,export,0
 2,2020,import,-15.69463819
