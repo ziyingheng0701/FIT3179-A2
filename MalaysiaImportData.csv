@@ -98,7 +98,7 @@ Year,Origin,flowDesc,ImportCountry,ImportValue
 2020,Malaysia,Import,Oman,651705312.8
 2020,Malaysia,Import,Botswana,877.606
 2020,Malaysia,Import,Luxembourg,14040336.49
-2020,Malaysia,Import,"China, Hong Kong SAR",3377007631
+2020,Malaysia,Import,Hong Kong,3377007631
 2020,Malaysia,Import,Bermuda,435.591
 2020,Malaysia,Import,Azerbaijan,68167994.96
 2020,Malaysia,Import,Bosnia Herzegovina,1270409.339
@@ -315,7 +315,7 @@ Year,Origin,flowDesc,ImportCountry,ImportValue
 2021,Malaysia,Import,Curaçao,96028.825
 2021,Malaysia,Import,Romania,65354370.56
 2021,Malaysia,Import,Christmas Isds,3076685.581
-2021,Malaysia,Import,"China, Hong Kong SAR",4254236611
+2021,Malaysia,Import,Hong Kong,4254236611
 2021,Malaysia,Import,Georgia,6994938.516
 2021,Malaysia,Import,Norway,181408553.9
 2021,Malaysia,Import,Dem. Rep. of the Congo,53493826.93
@@ -555,7 +555,7 @@ Year,Origin,flowDesc,ImportCountry,ImportValue
 2022,Malaysia,Import,Guyana,314227.672
 2022,Malaysia,Import,Haiti,261208.142
 2022,Malaysia,Import,Honduras,5393493.015
-2022,Malaysia,Import,"China, Hong Kong SAR",3998605553
+2022,Malaysia,Import,Hong Kong,3998605553
 2022,Malaysia,Import,Hungary,220610105.9
 2022,Malaysia,Import,Iceland,941606.233
 2022,Malaysia,Import,Indonesia,16806851272
@@ -772,7 +772,7 @@ Year,Origin,flowDesc,ImportCountry,ImportValue
 2023,Malaysia,Import,Guyana,1310400.185
 2023,Malaysia,Import,Haiti,5808005.956
 2023,Malaysia,Import,Honduras,4604672.49
-2023,Malaysia,Import,"China, Hong Kong SAR",3342762959
+2023,Malaysia,Import,Hong Kong,3342762959
 2023,Malaysia,Import,Singapore,31528337811
 2023,Malaysia,Import,Slovakia,29330032.23
 2023,Malaysia,Import,Viet Nam,6010653661
