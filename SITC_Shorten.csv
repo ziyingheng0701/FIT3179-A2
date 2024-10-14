@@ -1,11 +1,11 @@
-SITC_Code,SITC_Desc
-0,Food & Live
-1,Beverages
-2,Inedible Materials
-3,Fuels & Lubricants
-4,Oils & Waxes
-5,Chemicals
-6,Manufactured
-7,Machinery
-8,Misc. Articles
-9,Others
+SITC_Code,SITC_Desc,SITC_Long_Desc
+0,Food & Live, Food And Live Animals
+1,Beverages,Beverages And Tobacco
+2,Inedible Materials,,"Crude Materials, Inedible, Except Fuels"
+3,Fuels & Lubricants,"Mineral Fuels, Lubric. And Related Mtrls"
+4,Oils & Waxes,"Animal And Vegetable Oils,Fats And Waxes"
+5,Chemicals,"Chemicals And Related Products, N.E.S."
+6,Manufactured,Manufactured Goods Classif. By Material
+7,Machinery,Machinery And Transport Equipment
+8,Misc. Articles,Miscellaneous Manufactured Articles
+9,Others,Others
