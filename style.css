@@ -1,0 +1,345 @@
+/* Global styles */
+body {
+	font-family: sans-serif,sans-serif;
+	margin: 0;
+	padding: 0;
+	max-width: 1200px; /* Set a maximum width for the entire content */
+	margin: 0 auto; /* Center the content horizontally */
+  }
+  
+  .header_card {
+	background-color: #083d57;
+	color: white;
+	border-radius: 15px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	padding: 20px;
+	margin-bottom: 20px;
+
+  }
+  .subheader_card {
+	background-color: #d1e7e3;
+	border-radius: 15px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	padding: 10px;
+	margin-bottom: 20px;;
+	justify-content: center;
+	align-items: center;
+	margin-top: 30px;
+  }
+  
+
+  .card {
+	background-color: #fffefb;
+	border-radius: 15px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	padding: 20px;
+	margin-bottom: 20px;
+	padding-left: 100px;
+	padding-right: 100px;
+
+  }
+  .desc_card {
+	border-radius: 15px;
+	padding: 10px;
+	padding-top: 30px;
+	margin-bottom: 20px;
+	width: 70%; /* Keep the width */
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 0 auto; /* This will center the card */
+	
+  }
+
+  .desc_card p {
+	line-height: 1.5; /* Adjust this value to increase the spacing */
+  }
+
+  .desc_card2 {
+	border-radius: 15px;
+	padding: 10px;
+	margin-bottom: 20px;
+	width: 70%; /* Keep the width */
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 0 auto; /* This will center the card */
+	}
+
+	.desc_card2 p {
+		line-height: 1.5; /* Adjust this value to increase the spacing */
+	  }
+
+
+  .third_card {
+	background-color: #fffefb;
+	border-radius: 15px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	padding: 20px;
+	margin-bottom: 20px;
+	padding-left: 100px;
+	padding-right: 100px;
+
+  }
+  .author_card {
+	border-radius: 15px;
+	padding: 20px;
+	margin-bottom: 20px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 0 auto; /* This will center the card */
+	text-align: center;
+	font-size: 15px;
+	color: #4d4a4a;
+  }
+
+  .chart_card {
+	background-color: #fffefb;
+	border-color: #aaa;
+	border-radius: 15px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	padding: 20px;
+	margin-bottom: 20px;
+	padding-left: 40px;
+	padding-right: 40px;
+  }
+
+  .map_container {
+    width: 100%;
+    height: 480px;
+    display: flex;            /* Enables Flexbox */
+    flex-direction: column;   /* Align children vertically */
+    justify-content: center;  /* Center vertically */
+    align-items: center;      /* Center horizontally */
+    border-radius: 15px;
+    margin-bottom: 20px;
+	margin-top: 30px;
+}
+
+  .population_pyramid_container {
+	width: 100%;
+	height: 550px;
+	display: flex;            /* Enables Flexbox */
+    flex-direction: column;   /* Align children vertically */
+    justify-content: center;  /* Center vertically */
+    align-items: center;      /* Center horizontally */
+	border-radius: 15px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	
+
+  }
+  
+  .notes {
+	background-color: #fffefb;
+	border-radius: 15px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	padding: 20px;
+	width: 80%;
+	font-size: 12px;
+	margin-left: 25px;
+	margin-bottom: px;
+	color: #4d4a4a;
+  }
+
+
+  .title {
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+	margin-bottom: 20px;
+	font-family: oswald, sans-serif;
+	text-align: center;
+  }
+
+  .description {
+    padding-left: 10px;
+	padding-right: 10px;
+	font-size: 16px;
+	}
+
+	.flex-container {
+		display: flex;
+		justify-content: space-between;
+		align-items: flex-start; 
+		gap: 20px; 
+		padding-right: 10px;
+		padding-top: 20px;
+		margin-bottom: 20px;
+	}
+	
+	.left {
+		flex: 1; 
+		margin-right: 20px; 
+		padding: 10px; 
+	}
+	
+	.right {
+		flex: 1; 
+		margin-left: 20px; 
+		padding: 10px; 
+		padding-right: 20px; 
+	}
+	
+
+	.line_chart_container {
+		flex: 1; 
+	}
+
+	.notechart_container {
+		flex: 1; 
+		padding-left: 10px ;
+	}
+
+	.balance_chart_container {
+		flex: 1;
+		padding-left: 10px ;
+		margin-top: 10px;
+	}
+
+	.bubble_chart_container {
+		flex: 1; 
+		padding-left: 10px ;
+	}
+	
+	.bubble_chart_container p {
+		padding-left: 50px;
+		color: #4d4a4a;
+		font-size: 12px;
+	}
+
+	
+	.chart-title {
+		font-size: 30px; 
+		font-weight: bold;
+		color: #083d57; 
+		text-align: center; 
+		margin-bottom: 10px; 
+		font-family: monospace;
+	}
+
+
+	 /* Styling the toggle switch container */
+	 .switch-container {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		margin-bottom: 5px;
+	}
+
+	/* Hide the checkbox */
+	.checkbox {
+		display: none;
+	}
+
+	/* Styling the toggle switch */
+	.toggle {
+		position: relative;
+		display: inline-flex;
+		width: 100px; 
+		height: 30px; 
+		background-color: #74b3d2; 
+		border-radius: 10px; 
+		cursor: pointer;
+		transition: background-color 0.3s, box-shadow 0.3s; 
+		box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); 
+	}
+
+	/* Style for the switch ball */
+	.toggle::after {
+		content: '';
+		position: absolute;
+		width: 38px; 
+		height: 28px; 
+		background-color: #fafafa; 
+		border-radius: 28%; 
+		left: 1px; 
+		top: 1px; 
+		transition: all 0.3s; 
+		box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2); 
+	}
+
+	/* Styling labels */
+	.switch-label {
+		position: absolute;
+		width: 50%; 
+		text-align: center;
+		line-height: 30px; 
+		color: white; 
+		font-size: 14px; 
+		font-weight: bold; 
+		transition: color 0.3s; 
+		font-family: monospace;
+		padding-left: 7px;
+		padding-right: 7px;
+	}
+
+	/* Initial color for Export label */
+	.export {
+		left: 0;
+	}
+
+	/* Initial color for Import label */
+	.import {
+		right: 0;
+	}
+
+	/* Active state */
+	.checkbox:checked + .toggle {
+		background-color: #f1962e; 
+	}
+
+	/* Move the switch ball */
+	.checkbox:checked + .toggle::after {
+		left: 60px; 
+	}
+
+	
+	/* Change color of the labels when checked */
+	.checkbox:checked + .toggle .export {
+		opacity: 1; /* Hide Export label */
+	}
+
+	.checkbox:checked + .toggle .import {
+		opacity: 0; 
+	}
+
+	.checkbox:not(:checked) + .toggle .export {
+		opacity: 0; 
+	}
+
+	 /* Style checkboxes and labels */
+	 .vega-bindings {
+		display: flex;
+		justify-content: center;
+		gap: 15px;
+		margin-bottom: 20px;
+		padding-left: 10px;
+	}
+
+	/* Force checkboxes and labels to display inline */
+	.vega-bindings label {
+		display: inline-flex;
+		align-items: center;
+		margin-right: 10px; 
+	}
+
+	.vega-bindings input[type="checkbox"] {
+		margin-right: 5px; 
+	}
+
+
+
+
+
+
+
+
+
+
+
+  
